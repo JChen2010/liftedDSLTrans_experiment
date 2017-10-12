@@ -1,0 +1,8 @@
+Collect more data:
+	- size of csv files
+	- for each transformation, run on lifted DSLTrans with non-product lines (post-process to show "slow-down" on same line)
+		- runtime for PL/runtime for non-PL
+Generate output as csv (name, nclone, input size, #feat, #rule, runtime, clause, variable, c/v, size of csv, memory usage, slow-down ratio)
+	- collect length of presence conditions (# of terms/# of conjunctions - same thing), exclude literals
+
+Note: # of terms = # of clauses since all clauses are atomic

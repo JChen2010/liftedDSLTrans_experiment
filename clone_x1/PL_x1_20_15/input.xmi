@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="ASCII"?>
+<test:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:test="http://test/144.0" xsi:schemaLocation="http://test/144.0 myuml_test.ecore" Name="bCMS">
+  <comments body="Author:alfredo.Created:20/04/11 15:08.Title:.Comment:." Name="Author"/>
+  <statemachines Name="SM-FSCsystem">
+    <regions Name="Cr_9892"/>
+    <regions Name="R1">
+      <transitions Name="Cr_9832"/>
+      <transitions Name="Cr_9884"/>
+      <states xsi:type="test:Pseudostate" Name="PS_1"/>
+      <transitions Name="T_1"/>
+      <transitions Name="T_4"/>
+      <transitions Name="T_5"/>
+      <transitions Name="T_8"/>
+      <transitions Name="T_10"/>
+      <transitions Name="T_12"/>
+      <transitions Name="T_14"/>
+      <transitions Name="T_15"/>
+    </regions>
+    <regions Name="R2">
+      <transitions Name="Cr_9883"/>
+      <transitions Name="Cr_9962"/>
+      <states xsi:type="test:State" Name="S_1"/>
+      <states xsi:type="test:State" Name="S_2"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-FScoordinator">
+    <regions Name="Cr_9876"/>
+    <regions Name="Cr_9881"/>
+    <regions Name="Cr_9891"/>
+    <regions Name="R3">
+      <transitions Name="T_19"/>
+      <transitions Name="T_24"/>
+      <transitions Name="T_26"/>
+    </regions>
+    <regions Name="R4">
+      <transitions Name="Cr_9841"/>
+      <transitions Name="Cr_9842"/>
+      <transitions Name="Cr_9917"/>
+      <states xsi:type="test:State" Name="S_4"/>
+      <transitions Name="T_29"/>
+      <transitions Name="T_30"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-Main">
+    <regions Name="Cr_9843"/>
+    <regions Name="Cr_9998"/>
+    <regions Name="R5">
+      <transitions Name="T_31"/>
+      <transitions Name="T_32"/>
+    </regions>
+    <regions Name="R6">
+      <states xsi:type="test:Pseudostate" Name="PS_6"/>
+      <states xsi:type="test:State" Name="S_7"/>
+    </regions>
+    <regions Name="R7">
+      <states xsi:type="test:State" Name="S_9"/>
+      <states xsi:type="test:State" Name="S_10"/>
+      <transitions Name="T_35"/>
+      <transitions Name="T_36"/>
+    </regions>
+    <regions Name="R8">
+      <transitions Name="Cr_9915"/>
+      <states xsi:type="test:Pseudostate" Name="PS_8"/>
+      <states xsi:type="test:State" Name="S_12"/>
+      <transitions Name="T_38"/>
+    </regions>
+    <regions Name="R9">
+      <transitions Name="Cr_9867"/>
+      <states xsi:type="test:State" Name="S_14"/>
+      <transitions Name="T_40"/>
+    </regions>
+    <regions Name="R10">
+      <states xsi:type="test:Pseudostate" Name="PS_10"/>
+      <transitions Name="T_41"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-ConnectivityFSCsystem">
+    <regions Name="Cr_9940"/>
+    <regions Name="Cr_9971"/>
+    <regions Name="R11">
+      <transitions Name="Cr_9860"/>
+      <transitions Name="T_44"/>
+      <transitions Name="T_45"/>
+    </regions>
+    <regions Name="R12">
+      <states xsi:type="test:State" Name="S_19"/>
+      <transitions Name="T_46"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-PSCSystem">
+    <regions Name="Cr_9833"/>
+    <regions Name="Cr_9851"/>
+    <regions Name="Cr_9987"/>
+    <regions Name="R13">
+      <states xsi:type="test:Pseudostate" Name="PS_13"/>
+      <states xsi:type="test:State" Name="S_20"/>
+      <states xsi:type="test:State" Name="S_23"/>
+      <transitions Name="T_47"/>
+      <transitions Name="T_48"/>
+      <transitions Name="T_49"/>
+      <transitions Name="T_50"/>
+      <transitions Name="T_51"/>
+      <transitions Name="T_52"/>
+      <transitions Name="T_58"/>
+    </regions>
+    <regions Name="R14">
+      <states xsi:type="test:Pseudostate" Name="PS_14"/>
+      <states xsi:type="test:State" Name="S_29"/>
+      <transitions Name="T_59"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-ConnectivityPSCsystem">
+    <regions Name="Cr_9834"/>
+    <regions Name="Cr_9852"/>
+    <regions Name="Cr_9931"/>
+    <regions Name="Cr_9936"/>
+    <regions Name="Cr_9945"/>
+    <regions Name="Cr_9946"/>
+    <regions Name="Cr_9949"/>
+    <regions Name="Cr_9964"/>
+    <regions Name="Cr_9989"/>
+    <regions Name="R15">
+      <transitions Name="Cr_9982"/>
+      <states xsi:type="test:State" Name="S_30"/>
+      <states xsi:type="test:State" Name="S_31"/>
+      <transitions Name="T_61"/>
+      <transitions Name="T_62"/>
+    </regions>
+    <regions Name="R16">
+      <states xsi:type="test:Pseudostate" Name="PS_16"/>
+      <states xsi:type="test:State" Name="S_32"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-PScoordinator">
+    <regions Name="Cr_9897"/>
+    <regions Name="Cr_9992"/>
+    <regions Name="Region1">
+      <states xsi:type="test:Pseudostate" Name="PS_17"/>
+      <states xsi:type="test:State" Name="S_33"/>
+      <states xsi:type="test:State" Name="S_34"/>
+      <states xsi:type="test:State" Name="S_35"/>
+      <states xsi:type="test:State" Name="S_36"/>
+      <transitions Name="T_65"/>
+      <transitions Name="T_66"/>
+      <transitions Name="T_67"/>
+      <transitions Name="T_69"/>
+      <transitions Name="T_72"/>
+      <transitions Name="T_73"/>
+    </regions>
+    <regions Name="Region2">
+      <states xsi:type="test:Pseudostate" Name="PS_18"/>
+      <states xsi:type="test:State" Name="S_42"/>
+      <states xsi:type="test:State" Name="S_43"/>
+      <transitions Name="T_75"/>
+      <transitions Name="T_76"/>
+    </regions>
+  </statemachines>
+  <models Name="Domain">
+    <dcomments Name="Cr_9836"/>
+    <dassociations Name="Cr_9853"/>
+    <dassociations Name="Cr_9854"/>
+    <dclasses Name="Cr_9856"/>
+    <dclasses Name="Cr_9858"/>
+    <dcomments Name="Cr_9859"/>
+    <dassociations Name="Cr_9861"/>
+    <dassociations Name="Cr_9864"/>
+    <dassociations Name="Cr_9870"/>
+    <dassociations Name="Cr_9871"/>
+    <dassociations Name="Cr_9877"/>
+    <dcomments Name="Cr_9880"/>
+    <dcomments Name="Cr_9898"/>
+    <dclasses Name="Cr_9903"/>
+    <dclasses Name="Cr_9906"/>
+    <dclasses Name="Cr_9910"/>
+    <dclasses Name="Cr_9912"/>
+    <dcomments Name="Cr_9913"/>
+    <dassociations Name="Cr_9916"/>
+    <dclasses Name="Cr_9919"/>
+    <dcomments Name="Cr_9921"/>
+    <dcomments Name="Cr_9927"/>
+    <dclasses Name="Cr_9941"/>
+    <dassociations Name="Cr_9954"/>
+    <dclasses Name="Cr_9965"/>
+    <dassociations Name="crisis_allocate_policeCars"/>
+    <dassociations Name="crisis_allocate_fireTrucks"/>
+    <dassociations Name="routePlans_develop_pSCSystem"/>
+    <dassociations Name="crisis_handle_bCMSSystem"/>
+    <dassociations Name="firemen_interact_fScoordinator"/>
+    <dassociations Name="fScoordinator_interact_fSCSystem"/>
+    <dassociations Name="witnesses_interact_firemen"/>
+    <dassociations Name="witnesses_interact_policeOfficers"/>
+    <dassociations Name="victims_interact_firemen"/>
+    <dassociations Name="pScoordinator_interact_pSCSystem"/>
+    <dassociations Name="routePlan_receive_fSCSystem"/>
+    <dassociations Name="timeoutLog_register_fSCSystem"/>
+    <dassociations Name="bCMSSystem_regulate_govermentAgency"/>
+    <dassociations Name="timeoutLog_report_pScoordinator"/>
+    <dclasses Name="BCMSSystem">
+      <properties Name="Cr_9947"/>
+      <properties Name="P_1"/>
+    </dclasses>
+    <dclasses Name="CommunicationCompromiser">
+      <properties Name="Cr_9944"/>
+      <properties Name="Cr_9990"/>
+    </dclasses>
+    <dclasses Name="CommunicationInfrastructure">
+      <properties Name="P_7"/>
+    </dclasses>
+    <dclasses Name="Credential">
+      <properties Name="Cr_9872"/>
+      <properties Name="P_10"/>
+      <properties Name="P_11"/>
+    </dclasses>
+    <dclasses Name="Crisis">
+      <properties Name="Cr_9928"/>
+      <properties Name="P_12"/>
+      <properties Name="P_13"/>
+      <properties Name="P_15"/>
+      <properties Name="P_16"/>
+      <properties Name="P_17"/>
+      <properties Name="P_18"/>
+      <properties Name="P_19"/>
+      <properties Name="P_20"/>
+    </dclasses>
+    <dclasses Name="Fireman">
+      <properties Name="Cr_9950"/>
+      <properties Name="P_21"/>
+    </dclasses>
+    <dclasses Name="FireTruck">
+      <properties Name="Cr_9960"/>
+      <properties Name="P_24"/>
+      <properties Name="P_25"/>
+      <properties Name="P_27"/>
+    </dclasses>
+    <dclasses Name="FScoordinator">
+      <properties Name="Cr_9866"/>
+      <properties Name="P_28"/>
+      <properties Name="P_29"/>
+      <properties Name="P_30"/>
+      <properties Name="P_31"/>
+    </dclasses>
+    <dclasses Name="FSCSystem">
+      <properties Name="P_33"/>
+      <properties Name="P_36"/>
+      <properties Name="P_37"/>
+    </dclasses>
+    <dclasses Name="GovermentAgency">
+      <properties Name="Cr_9840"/>
+      <properties Name="Cr_9873"/>
+    </dclasses>
+    <dclasses Name="GPS">
+      <properties Name="P_40"/>
+    </dclasses>
+    <dclasses Name="PoliceCar">
+      <properties Name="Cr_9835"/>
+      <properties Name="Cr_9997"/>
+      <properties Name="P_42"/>
+      <properties Name="P_43"/>
+      <properties Name="P_44"/>
+      <properties Name="P_45"/>
+    </dclasses>
+    <dclasses Name="PoliceOfficer">
+      <properties Name="Cr_9886"/>
+      <properties Name="Cr_9939"/>
+      <properties Name="P_46"/>
+      <properties Name="P_48"/>
+    </dclasses>
+    <dclasses Name="PScoordinator">
+      <properties Name="P_51"/>
+      <properties Name="P_52"/>
+    </dclasses>
+    <dclasses Name="PSCSystem">
+      <properties Name="P_54"/>
+      <properties Name="P_56"/>
+      <properties Name="P_57"/>
+      <properties Name="P_58"/>
+    </dclasses>
+    <dclasses Name="Route">
+      <properties Name="Cr_9855"/>
+      <properties Name="Cr_9899"/>
+      <properties Name="P_61"/>
+      <properties Name="P_62"/>
+    </dclasses>
+    <dclasses Name="RouteFireTruck">
+      <properties Name="Cr_9905"/>
+      <properties Name="Cr_9958"/>
+      <properties Name="Cr_9976"/>
+      <properties Name="P_63"/>
+      <general Name="G_1"/>
+    </dclasses>
+    <dclasses Name="RoutePlan">
+      <properties Name="Cr_9918"/>
+      <properties Name="Cr_9926"/>
+      <properties Name="P_67"/>
+      <properties Name="P_68"/>
+      <properties Name="P_70"/>
+    </dclasses>
+    <dclasses Name="RoutePoliceCar">
+      <general Name="G_2"/>
+    </dclasses>
+    <dclasses Name="TimeoutLog">
+      <properties Name="Cr_9846"/>
+      <properties Name="P_74"/>
+      <properties Name="P_75"/>
+      <properties Name="P_76"/>
+      <properties Name="P_78"/>
+      <properties Name="P_79"/>
+      <properties Name="P_80"/>
+      <properties Name="P_81"/>
+    </dclasses>
+    <dclasses Name="Victim">
+      <properties Name="Cr_9938"/>
+      <properties Name="P_83"/>
+    </dclasses>
+    <dclasses Name="Witness">
+      <properties Name="P_84"/>
+    </dclasses>
+    <dclasses Name="PScoordinatorNoEncryption">
+      <properties Name="Cr_9951"/>
+    </dclasses>
+    <dclasses Name="FScoordinatorNoEncryption">
+    </dclasses>
+    <dclasses Name="PSCSystemNoEncryption">
+      <properties Name="Cr_9923"/>
+      <properties Name="Cr_9959"/>
+    </dclasses>
+    <dclasses Name="FSCSystemNoEncryption">
+      <properties Name="Cr_9894"/>
+      <properties Name="Cr_9914"/>
+      <properties Name="Cr_9985"/>
+      <general Name="G_6"/>
+    </dclasses>
+  </models>
+  <models Name="Architecture">
+    <dclasses Name="Cr_9831"/>
+    <dclasses Name="Cr_9837"/>
+    <dclasses Name="Cr_9838"/>
+    <dcomments Name="Cr_9839"/>
+    <dassociations Name="Cr_9844"/>
+    <dclasses Name="Cr_9848"/>
+    <dassociations Name="Cr_9849"/>
+    <dclasses Name="Cr_9850"/>
+    <dcomments Name="Cr_9862"/>
+    <dcomments Name="Cr_9865"/>
+    <dassociations Name="Cr_9874"/>
+    <dclasses Name="Cr_9875"/>
+    <dcomments Name="Cr_9878"/>
+    <dassociations Name="Cr_9879"/>
+    <dcomments Name="Cr_9885"/>
+    <dclasses Name="Cr_9889"/>
+    <dcomments Name="Cr_9890"/>
+    <dcomments Name="Cr_9896"/>
+    <dassociations Name="Cr_9900"/>
+    <dcomments Name="Cr_9904"/>
+    <dclasses Name="Cr_9920"/>
+    <dclasses Name="Cr_9924"/>
+    <dclasses Name="Cr_9932"/>
+    <dassociations Name="Cr_9948"/>
+    <dcomments Name="Cr_9956"/>
+    <dclasses Name="Cr_9957"/>
+    <dassociations Name="Cr_9963"/>
+    <dcomments Name="Cr_9966"/>
+    <dcomments Name="Cr_9970"/>
+    <dclasses Name="Cr_9975"/>
+    <dassociations Name="fSCSystem_call_pSCSystem"/>
+    <dclasses Name="FSCSystem">
+      <properties Name="Cr_9857"/>
+      <properties Name="Cr_10000"/>
+      <properties Name="P_87"/>
+      <properties Name="P_88"/>
+    </dclasses>
+    <dclasses Name="PSCSystem">
+      <properties Name="Cr_9845"/>
+      <properties Name="Cr_9935"/>
+      <properties Name="P_90"/>
+      <properties Name="P_92"/>
+    </dclasses>
+  </models>
+</test:Model>

@@ -1,0 +1,1086 @@
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_11
+Runtime: 10.570006s
+CV Ratio: 86.22727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_15
+Runtime: 15.277263s
+CV Ratio: 92.97619047619048
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_11
+Runtime: 15.582074s
+CV Ratio: 95.20967741935483
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_12
+Runtime: 17.384678s
+CV Ratio: 104.7741935483871
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_13
+Runtime: 18.548598s
+CV Ratio: 121.29032258064517
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_14
+Runtime: 21.087272s
+CV Ratio: 117.12903225806451
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_15
+Runtime: 23.028728s
+CV Ratio: 139.3548387096774
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_11
+Runtime: 21.310204s
+CV Ratio: 109.14634146341463
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_12
+Runtime: 27.829407s
+CV Ratio: 126.98780487804878
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_13
+Runtime: 30.550606s
+CV Ratio: 135.1829268292683
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_14
+Runtime: 34.671465s
+CV Ratio: 167.96341463414635
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_12
+Runtime: 9.758619s
+CV Ratio: 86.86363636363636
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_15
+Runtime: 38.167485s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_11
+Runtime: 38.92174s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_12
+Runtime: 37.427213s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_11
+Runtime: 10.715981s
+CV Ratio: 86.22727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_15
+Runtime: 15.226385s
+CV Ratio: 92.97619047619048
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_11
+Runtime: 15.617481s
+CV Ratio: 95.20967741935483
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_12
+Runtime: 16.805273s
+CV Ratio: 104.7741935483871
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_13
+Runtime: 18.877458s
+CV Ratio: 121.29032258064517
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_14
+Runtime: 20.743788s
+CV Ratio: 117.12903225806451
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_60_15
+Runtime: 22.486004s
+CV Ratio: 139.3548387096774
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_11
+Runtime: 21.31048s
+CV Ratio: 109.14634146341463
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_12
+Runtime: 25.814239s
+CV Ratio: 126.98780487804878
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_13
+Runtime: 29.765039s
+CV Ratio: 135.1829268292683
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_14
+Runtime: 34.082287s
+CV Ratio: 167.96341463414635
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_12
+Runtime: 9.481786s
+CV Ratio: 86.86363636363636
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_80_15
+Runtime: 37.129467s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_11
+Runtime: 39.382587s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_12
+Runtime: 39.071413s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_13
+Runtime: 38.327299s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_14
+Runtime: 39.2535s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_20_15
+Runtime: 38.126819s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_40_11
+Runtime: 36.909172s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_40_12
+Runtime: 39.915348s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_40_13
+Runtime: 38.315638s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_40_14
+Runtime: 37.013347s
+CV Ratio: 161.97560975609755
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_13
+Runtime: 9.576427s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_40_15
+Runtime: 9.098826s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_60_11
+Runtime: 9.378651s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_60_12
+Runtime: 9.241046s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_60_13
+Runtime: 9.610913s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_60_14
+Runtime: 9.521129s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_60_15
+Runtime: 9.520263s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_80_11
+Runtime: 9.743999s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_80_12
+Runtime: 9.455027s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_80_13
+Runtime: 9.844152s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_80_14
+Runtime: 9.719937s
+CV Ratio: 87.72727272727273
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_14
+Runtime: 9.94229s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x2_80_15
+Runtime: 9.379967s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_20_11
+Runtime: 9.628524s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_20_12
+Runtime: 9.250974s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_20_13
+Runtime: 9.578058s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_20_14
+Runtime: 9.663158s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_20_15
+Runtime: 9.4858s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_40_11
+Runtime: 9.667408s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_40_12
+Runtime: 9.668784s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_40_13
+Runtime: 9.518463s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_40_14
+Runtime: 9.83911s
+CV Ratio: 90.4090909090909
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_20_15
+Runtime: 9.975608s
+CV Ratio: 92.36363636363636
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x3_40_15
+Runtime: 9.867368s
+CV Ratio: 92.36363636363636
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_11
+Runtime: 11.438215s
+CV Ratio: 73.42857142857143
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_12
+Runtime: 12.778393s
+CV Ratio: 96.30952380952381
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_13
+Runtime: 12.856444s
+CV Ratio: 96.33333333333333
+
+Transformation: create_PROP_in_any_CLASS
+Product Line: PL_x1_40_14
+Runtime: 14.038666s
+CV Ratio: 95.66666666666667
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_11
+Runtime: 8.822554s
+CV Ratio: 82.72727272727273
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_11
+Runtime: 8.903319s
+CV Ratio: 82.72727272727273
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_40_15
+Runtime: 12.846272s
+CV Ratio: 61.11904761904762
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_60_11
+Runtime: 13.033833s
+CV Ratio: 43.725806451612904
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_60_12
+Runtime: 14.85042s
+CV Ratio: 47.596774193548384
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_60_13
+Runtime: 15.750739s
+CV Ratio: 51.11290322580645
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_60_14
+Runtime: 16.920604s
+CV Ratio: 55.24193548387097
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_60_15
+Runtime: 18.893865s
+CV Ratio: 59.274193548387096
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_80_11
+Runtime: 18.514277s
+CV Ratio: 43.792682926829265
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_80_12
+Runtime: 20.412156s
+CV Ratio: 47.59756097560975
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_80_13
+Runtime: 22.158188s
+CV Ratio: 51.670731707317074
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_80_14
+Runtime: 26.977943s
+CV Ratio: 55.573170731707314
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_12
+Runtime: 8.974415s
+CV Ratio: 83.45454545454545
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_80_15
+Runtime: 29.728665s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_20_11
+Runtime: 29.862688s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_20_12
+Runtime: 28.190482s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_20_13
+Runtime: 28.860871s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_20_14
+Runtime: 29.961014s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_20_15
+Runtime: 31.688101s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_40_11
+Runtime: 29.760755s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_40_12
+Runtime: 29.966994s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_40_13
+Runtime: 30.909407s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_40_14
+Runtime: 28.774998s
+CV Ratio: 59.329268292682926
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_13
+Runtime: 8.739525s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_40_15
+Runtime: 8.204437s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_60_11
+Runtime: 8.4316s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_60_12
+Runtime: 9.033949s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_60_13
+Runtime: 9.105162s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_60_14
+Runtime: 8.860696s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_60_15
+Runtime: 8.452064s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_80_11
+Runtime: 9.135927s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_80_12
+Runtime: 8.799765s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_80_13
+Runtime: 8.665596s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_80_14
+Runtime: 9.156586s
+CV Ratio: 84.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_14
+Runtime: 8.858595s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x2_80_15
+Runtime: 9.06737s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_20_11
+Runtime: 8.822922s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_20_12
+Runtime: 8.882167s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_20_13
+Runtime: 9.015194s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_20_14
+Runtime: 8.540503s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_20_15
+Runtime: 8.864234s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_40_11
+Runtime: 9.266353s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_40_12
+Runtime: 9.375253s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_40_13
+Runtime: 9.113352s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x3_40_14
+Runtime: 9.027225s
+CV Ratio: 86.54545454545455
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_20_15
+Runtime: 9.177126s
+CV Ratio: 88.36363636363636
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_40_11
+Runtime: 10.809113s
+CV Ratio: 53.30952380952381
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_40_12
+Runtime: 11.428624s
+CV Ratio: 56.30952380952381
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_40_13
+Runtime: 11.433885s
+CV Ratio: 56.404761904761905
+
+Transformation: create_CLASS_in_any_DOMAIN
+Product Line: PL_x1_40_14
+Runtime: 12.524663s
+CV Ratio: 60.11904761904762
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.491276s
+CV Ratio: 82.5909090909091
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_15
+Runtime: 12.751829s
+CV Ratio: 61.023809523809526
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_11
+Runtime: 13.508454s
+CV Ratio: 43.66129032258065
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_12
+Runtime: 14.868229s
+CV Ratio: 47.53225806451613
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_13
+Runtime: 15.614782s
+CV Ratio: 51.04838709677419
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_14
+Runtime: 16.98906s
+CV Ratio: 55.17741935483871
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_15
+Runtime: 19.238293s
+CV Ratio: 59.20967741935484
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_11
+Runtime: 17.955921s
+CV Ratio: 43.74390243902439
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_12
+Runtime: 22.263756s
+CV Ratio: 47.548780487804876
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_13
+Runtime: 22.774314s
+CV Ratio: 51.6219512195122
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_14
+Runtime: 25.307323s
+CV Ratio: 55.52439024390244
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_12
+Runtime: 8.716815s
+CV Ratio: 83.31818181818181
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_15
+Runtime: 29.74179s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_11
+Runtime: 28.767657s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_12
+Runtime: 30.3309s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_13
+Runtime: 29.039905s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_14
+Runtime: 29.216841s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_15
+Runtime: 31.145721s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_11
+Runtime: 28.648428s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_12
+Runtime: 28.871622s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_13
+Runtime: 30.693141s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_14
+Runtime: 29.258894s
+CV Ratio: 59.28048780487805
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_13
+Runtime: 8.810666s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_15
+Runtime: 8.708775s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_60_11
+Runtime: 8.843598s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_60_12
+Runtime: 8.768853s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_60_13
+Runtime: 8.856972s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_60_14
+Runtime: 8.381655s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_60_15
+Runtime: 8.698899s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_80_11
+Runtime: 8.98822s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_80_12
+Runtime: 8.688733s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_80_13
+Runtime: 9.095179s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_80_14
+Runtime: 8.940953s
+CV Ratio: 84.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_14
+Runtime: 8.792725s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x2_80_15
+Runtime: 9.505371s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_20_11
+Runtime: 9.030894s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_20_12
+Runtime: 8.662657s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_20_13
+Runtime: 8.39663s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_20_14
+Runtime: 8.406434s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_20_15
+Runtime: 9.355093s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_40_11
+Runtime: 9.214661s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_40_12
+Runtime: 8.869473s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_40_13
+Runtime: 9.314038s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_40_14
+Runtime: 9.266021s
+CV Ratio: 86.4090909090909
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_15
+Runtime: 9.40184s
+CV Ratio: 88.22727272727273
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x3_40_15
+Runtime: 9.219122s
+CV Ratio: 88.22727272727273
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_11
+Runtime: 11.046653s
+CV Ratio: 53.214285714285715
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_12
+Runtime: 11.59655s
+CV Ratio: 56.214285714285715
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_13
+Runtime: 11.334804s
+CV Ratio: 56.30952380952381
+
+Transformation: delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_14
+Runtime: 12.010266s
+CV Ratio: 60.023809523809526
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_11
+Runtime: 8.79703s
+CV Ratio: 82.5909090909091
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_11
+Runtime: 8.632763s
+CV Ratio: 82.5909090909091
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_15
+Runtime: 12.491436s
+CV Ratio: 61.0
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_60_11
+Runtime: 13.463691s
+CV Ratio: 43.645161290322584
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_60_12
+Runtime: 14.661276s
+CV Ratio: 47.516129032258064
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_60_13
+Runtime: 16.230119s
+CV Ratio: 51.03225806451613
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_60_14
+Runtime: 17.017381s
+CV Ratio: 55.16129032258065
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_60_15
+Runtime: 19.27953s
+CV Ratio: 59.20967741935484
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_80_11
+Runtime: 18.133612s
+CV Ratio: 43.73170731707317
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_80_12
+Runtime: 20.364389s
+CV Ratio: 47.53658536585366
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_80_13
+Runtime: 22.74305s
+CV Ratio: 51.609756097560975
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_80_14
+Runtime: 27.228868s
+CV Ratio: 55.51219512195122
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_12
+Runtime: 9.018735s
+CV Ratio: 83.27272727272727
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_80_15
+Runtime: 30.784149s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_20_11
+Runtime: 30.529307s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_20_12
+Runtime: 31.512604s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_20_13
+Runtime: 33.435089s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_20_14
+Runtime: 31.009677s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_20_15
+Runtime: 30.872854s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_40_11
+Runtime: 30.60837s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_40_12
+Runtime: 30.504657s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_40_13
+Runtime: 30.317017s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_40_14
+Runtime: 30.517483s
+CV Ratio: 59.26829268292683
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_13
+Runtime: 8.933515s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_40_15
+Runtime: 9.10867s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_60_11
+Runtime: 8.729918s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_60_12
+Runtime: 8.964668s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_60_13
+Runtime: 8.951081s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_60_14
+Runtime: 8.953322s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_60_15
+Runtime: 9.524496s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_80_11
+Runtime: 8.626241s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_80_12
+Runtime: 9.090192s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_80_13
+Runtime: 10.172909s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_80_14
+Runtime: 10.310688s
+CV Ratio: 84.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_14
+Runtime: 9.340902s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x2_80_15
+Runtime: 9.27539s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_20_11
+Runtime: 8.72023s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_20_12
+Runtime: 8.601947s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_20_13
+Runtime: 9.008914s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_20_14
+Runtime: 8.686941s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_20_15
+Runtime: 9.326021s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_40_11
+Runtime: 8.928317s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_40_12
+Runtime: 9.181859s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_40_13
+Runtime: 9.166534s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_40_14
+Runtime: 9.235281s
+CV Ratio: 86.36363636363636
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_20_15
+Runtime: 9.461104s
+CV Ratio: 88.22727272727273
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x3_40_15
+Runtime: 8.750411s
+CV Ratio: 88.22727272727273
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_11
+Runtime: 10.753579s
+CV Ratio: 53.19047619047619
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_12
+Runtime: 11.560588s
+CV Ratio: 56.19047619047619
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_13
+Runtime: 11.506381s
+CV Ratio: 56.285714285714285
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_14
+Runtime: 12.591922s
+CV Ratio: 60.023809523809526
+
+Transformation: delete_Class_from_Domain
+Product Line: PL_x1_40_14
+Runtime: 21.442071s
+CV Ratio: 60.023809523809526
+
+create_PROP_in_any_CLASS,1,322,20,11,9.901174,1782,22,81.0,1.1765948605062633

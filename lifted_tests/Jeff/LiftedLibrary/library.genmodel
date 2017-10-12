@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/LiftedLibrary/src"
+    modelPluginID="LiftedLibrary" modelName="Library" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="6.0" copyrightFields="false">
+  <foreignModel>library.ecore</foreignModel>
+  <genPackages prefix="Library" disposableProviderFactory="true" ecorePackage="library.ecore#/">
+    <genClasses ecoreClass="library.ecore#//Book">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute library.ecore#//Book/Name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute library.ecore#//Book/genre"/>
+    </genClasses>
+    <genClasses ecoreClass="library.ecore#//NonFiction">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference library.ecore#//NonFiction/members"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute library.ecore#//NonFiction/Name"/>
+    </genClasses>
+    <genClasses ecoreClass="library.ecore#//Library">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference library.ecore#//Library/books"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference library.ecore#//Library/nonfiction"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference library.ecore#//Library/fiction"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute library.ecore#//Library/Name"/>
+    </genClasses>
+    <genClasses ecoreClass="library.ecore#//Fiction">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference library.ecore#//Fiction/members"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute library.ecore#//Fiction/Name"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

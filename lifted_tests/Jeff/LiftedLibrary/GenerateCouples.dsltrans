@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dsltrans:TransformationModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dsltrans="http://dsltrans/2.0">
+  <source xsi:type="dsltrans:FilePort" name="Main Input" filePathURI="input.xmi">
+    <metaModelId metaModelURI="library.ecore" metaModelName="library.Library"/>
+  </source>
+  <source xsi:type="dsltrans:Sequential" description="RootElements" previousSource="//@source.0" outputFilePathURI="RootElements.xmi">
+    <metaModelId metaModelURI="hierlibrary.ecore" metaModelName="hierarchy.Hierarchy"/>
+    <hasRule description="RootElement">
+      <match>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Library" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+      </match>
+      <apply>
+        <class className="HierLibrary" packageName="hierarchy">
+          <attribute>
+            <attributeValue xsi:type="dsltrans:Atom" value="RootElement"/>
+          </attribute>
+          <attribute attributeName="Name">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.1/@hasRule.0/@match.0/@class.0/@attribute.0"/>
+          </attribute>
+        </class>
+      </apply>
+    </hasRule>
+    <hasRule description="Fiction">
+      <match>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Fiction" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+      </match>
+      <apply>
+        <class className="Fiction" packageName="hierarchy">
+          <attribute attributeName="Name">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.1/@hasRule.1/@match.0/@class.0/@attribute.0"/>
+          </attribute>
+        </class>
+      </apply>
+    </hasRule>
+    <hasRule>
+      <match>
+        <class xsi:type="dsltrans:AnyMatchClass" className="NonFiction" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+      </match>
+      <apply>
+        <class className="NonFiction" packageName="hierarchy">
+          <attribute attributeName="Name">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.1/@hasRule.2/@match.0/@class.0/@attribute.0"/>
+          </attribute>
+        </class>
+      </apply>
+    </hasRule>
+  </source>
+  <source xsi:type="dsltrans:Sequential" description="HierLibrary" previousSource="//@source.1" outputFilePathURI="output.xmi" groupName="">
+    <metaModelId metaModelURI="hierlibrary.ecore" metaModelName="hierarchy.Hierarchy"/>
+    <hasRule description="Fiction">
+      <match>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Book" packageName="library">
+          <attribute attributeName="Name"/>
+          <attribute attributeName="genre"/>
+        </class>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Library" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+        <class xsi:type="dsltrans:AnyMatchClass" description="" className="Fiction" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="books" source="//@source.2/@hasRule.0/@match.0/@class.1" target="//@source.2/@hasRule.0/@match.0/@class.0"/>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="fiction" source="//@source.2/@hasRule.0/@match.0/@class.1" target="//@source.2/@hasRule.0/@match.0/@class.2"/>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="members" source="//@source.2/@hasRule.0/@match.0/@class.2" target="//@source.2/@hasRule.0/@match.0/@class.0"/>
+      </match>
+      <apply>
+        <class className="Fiction" packageName="hierarchy"/>
+        <class className="HierLibrary" packageName="hierarchy">
+          <attribute>
+            <attributeValue xsi:type="dsltrans:Atom" value="RootElement"/>
+          </attribute>
+        </class>
+        <class className="Book" packageName="hierarchy">
+          <attribute attributeName="Name">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.2/@hasRule.0/@match.0/@class.0/@attribute.0"/>
+          </attribute>
+          <attribute attributeName="genre">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.2/@hasRule.0/@match.0/@class.0/@attribute.1"/>
+          </attribute>
+        </class>
+        <association associationName="fiction" source="//@source.2/@hasRule.0/@apply/@class.1" target="//@source.2/@hasRule.0/@apply/@class.0"/>
+        <association associationName="members" source="//@source.2/@hasRule.0/@apply/@class.0" target="//@source.2/@hasRule.0/@apply/@class.2"/>
+        <association associationName="members" source="//@source.2/@hasRule.0/@apply/@class.0" target="//@source.2/@hasRule.0/@apply/@class.2"/>
+      </apply>
+      <backwards xsi:type="dsltrans:PositiveBackwardRestriction" targetClass="//@source.2/@hasRule.0/@apply/@class.1" sourceClass="//@source.2/@hasRule.0/@match.0/@class.1"/>
+      <backwards xsi:type="dsltrans:PositiveBackwardRestriction" targetClass="//@source.2/@hasRule.0/@apply/@class.0" sourceClass="//@source.2/@hasRule.0/@match.0/@class.2"/>
+    </hasRule>
+    <hasRule description="NonFiction">
+      <match>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Library" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+        <class xsi:type="dsltrans:AnyMatchClass" className="NonFiction" packageName="library">
+          <attribute attributeName="Name"/>
+        </class>
+        <class xsi:type="dsltrans:AnyMatchClass" className="Book" packageName="library">
+          <attribute attributeName="Name"/>
+          <attribute attributeName="genre"/>
+        </class>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="nonfiction" source="//@source.2/@hasRule.1/@match.0/@class.0" target="//@source.2/@hasRule.1/@match.0/@class.1"/>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="books" source="//@source.2/@hasRule.1/@match.0/@class.0" target="//@source.2/@hasRule.1/@match.0/@class.2"/>
+        <association xsi:type="dsltrans:PositiveMatchAssociation" associationName="members" source="//@source.2/@hasRule.1/@match.0/@class.1" target="//@source.2/@hasRule.1/@match.0/@class.2"/>
+      </match>
+      <apply>
+        <class className="HierLibrary" packageName="hierarchy">
+          <attribute>
+            <attributeValue xsi:type="dsltrans:Atom" value="RootElement"/>
+          </attribute>
+        </class>
+        <class className="NonFiction" packageName="hierarchy"/>
+        <class className="Book" packageName="hierarchy">
+          <attribute attributeName="Name">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.2/@hasRule.1/@match.0/@class.2/@attribute.0"/>
+          </attribute>
+          <attribute attributeName="genre">
+            <attributeValue xsi:type="dsltrans:AttributeRef" attributeRef="//@source.2/@hasRule.1/@match.0/@class.2/@attribute.1"/>
+          </attribute>
+        </class>
+        <association associationName="nonfiction" source="//@source.2/@hasRule.1/@apply/@class.0" target="//@source.2/@hasRule.1/@apply/@class.1"/>
+        <association associationName="members" source="//@source.2/@hasRule.1/@apply/@class.1" target="//@source.2/@hasRule.1/@apply/@class.2"/>
+      </apply>
+      <backwards xsi:type="dsltrans:PositiveBackwardRestriction" targetClass="//@source.2/@hasRule.1/@apply/@class.0" sourceClass="//@source.2/@hasRule.1/@match.0/@class.0"/>
+      <backwards xsi:type="dsltrans:PositiveBackwardRestriction" targetClass="//@source.2/@hasRule.1/@apply/@class.1" sourceClass="//@source.2/@hasRule.1/@match.0/@class.1"/>
+    </hasRule>
+  </source>
+</dsltrans:TransformationModel>

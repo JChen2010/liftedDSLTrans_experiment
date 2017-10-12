@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="ASCII"?>
+<test:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:test="http://test/144.0" xsi:schemaLocation="http://test/144.0 myuml_test.ecore" Name="bCMS">
+  <comments body="Author:alfredo.Created:20/04/11 15:08.Title:.Comment:." Name="Author"/>
+  <statemachines Name="SM-FSCsystem">
+    <regions Name="R1">
+      <states xsi:type="test:Pseudostate" Name="PS_1"/>
+      <transitions Name="T_1"/>
+      <transitions Name="T_2"/>
+      <transitions Name="T_3"/>
+      <transitions Name="T_4"/>
+      <transitions Name="T_5"/>
+      <transitions Name="T_6"/>
+      <transitions Name="T_7"/>
+      <transitions Name="T_8"/>
+      <transitions Name="T_9"/>
+      <transitions Name="T_10"/>
+      <transitions Name="T_11"/>
+      <transitions Name="T_12"/>
+      <transitions Name="T_13"/>
+      <transitions Name="T_14"/>
+      <transitions Name="T_15"/>
+    </regions>
+    <regions Name="R2">
+      <states xsi:type="test:Pseudostate" Name="PS_2"/>
+      <states xsi:type="test:State" Name="S_1"/>
+      <states xsi:type="test:State" Name="S_2"/>
+      <transitions Name="T_16"/>
+      <transitions Name="T_17"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-FScoordinator">
+    <regions Name="R3">
+      <states xsi:type="test:Pseudostate" Name="PS_3"/>
+      <transitions Name="T_18"/>
+      <transitions Name="T_19"/>
+      <transitions Name="T_20"/>
+      <transitions Name="T_21"/>
+      <transitions Name="T_22"/>
+      <transitions Name="T_23"/>
+      <transitions Name="T_24"/>
+      <transitions Name="T_25"/>
+      <transitions Name="T_26"/>
+      <transitions Name="T_27"/>
+      <transitions Name="T_28"/>
+    </regions>
+    <regions Name="R4">
+      <states xsi:type="test:Pseudostate" Name="PS_4"/>
+      <states xsi:type="test:State" Name="S_3"/>
+      <states xsi:type="test:State" Name="S_4"/>
+      <transitions Name="T_29"/>
+      <transitions Name="T_30"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-Main">
+    <regions Name="R5">
+      <states xsi:type="test:Pseudostate" Name="PS_5"/>
+      <states xsi:type="test:State" Name="S_5"/>
+      <states xsi:type="test:State" Name="S_6"/>
+      <transitions Name="T_31"/>
+      <transitions Name="T_32"/>
+    </regions>
+    <regions Name="R6">
+      <states xsi:type="test:Pseudostate" Name="PS_6"/>
+      <states xsi:type="test:State" Name="S_7"/>
+      <states xsi:type="test:State" Name="S_8"/>
+      <transitions Name="T_33"/>
+      <transitions Name="T_34"/>
+    </regions>
+    <regions Name="R7">
+      <states xsi:type="test:Pseudostate" Name="PS_7"/>
+      <states xsi:type="test:State" Name="S_9"/>
+      <states xsi:type="test:State" Name="S_10"/>
+      <transitions Name="T_35"/>
+      <transitions Name="T_36"/>
+    </regions>
+    <regions Name="R8">
+      <states xsi:type="test:Pseudostate" Name="PS_8"/>
+      <states xsi:type="test:State" Name="S_11"/>
+      <states xsi:type="test:State" Name="S_12"/>
+      <transitions Name="T_37"/>
+      <transitions Name="T_38"/>
+    </regions>
+    <regions Name="R9">
+      <states xsi:type="test:Pseudostate" Name="PS_9"/>
+      <states xsi:type="test:State" Name="S_13"/>
+      <states xsi:type="test:State" Name="S_14"/>
+      <transitions Name="T_39"/>
+      <transitions Name="T_40"/>
+    </regions>
+    <regions Name="R10">
+      <states xsi:type="test:Pseudostate" Name="PS_10"/>
+      <states xsi:type="test:State" Name="S_15"/>
+      <states xsi:type="test:State" Name="S_16"/>
+      <transitions Name="T_41"/>
+      <transitions Name="T_42"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-ConnectivityFSCsystem">
+    <regions Name="R11">
+      <states xsi:type="test:Pseudostate" Name="PS_11"/>
+      <states xsi:type="test:State" Name="S_17"/>
+      <states xsi:type="test:State" Name="S_18"/>
+      <transitions Name="T_43"/>
+      <transitions Name="T_44"/>
+      <transitions Name="T_45"/>
+    </regions>
+    <regions Name="R12">
+      <states xsi:type="test:Pseudostate" Name="PS_12"/>
+      <states xsi:type="test:State" Name="S_19"/>
+      <transitions Name="T_46"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-PSCSystem">
+    <regions Name="R13">
+      <states xsi:type="test:Pseudostate" Name="PS_13"/>
+      <states xsi:type="test:State" Name="S_20"/>
+      <states xsi:type="test:State" Name="S_21"/>
+      <states xsi:type="test:State" Name="S_22"/>
+      <states xsi:type="test:State" Name="S_23"/>
+      <states xsi:type="test:State" Name="S_24"/>
+      <states xsi:type="test:State" Name="S_25"/>
+      <states xsi:type="test:State" Name="S_26"/>
+      <states xsi:type="test:State" Name="S_27"/>
+      <transitions Name="T_47"/>
+      <transitions Name="T_48"/>
+      <transitions Name="T_49"/>
+      <transitions Name="T_50"/>
+      <transitions Name="T_51"/>
+      <transitions Name="T_52"/>
+      <transitions Name="T_53"/>
+      <transitions Name="T_54"/>
+      <transitions Name="T_55"/>
+      <transitions Name="T_56"/>
+      <transitions Name="T_57"/>
+      <transitions Name="T_58"/>
+    </regions>
+    <regions Name="R14">
+      <states xsi:type="test:Pseudostate" Name="PS_14"/>
+      <states xsi:type="test:State" Name="S_28"/>
+      <states xsi:type="test:State" Name="S_29"/>
+      <transitions Name="T_59"/>
+      <transitions Name="T_60"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-ConnectivityPSCsystem">
+    <regions Name="R15">
+      <states xsi:type="test:Pseudostate" Name="PS_15"/>
+      <states xsi:type="test:State" Name="S_30"/>
+      <states xsi:type="test:State" Name="S_31"/>
+      <transitions Name="T_61"/>
+      <transitions Name="T_62"/>
+      <transitions Name="T_63"/>
+    </regions>
+    <regions Name="R16">
+      <states xsi:type="test:Pseudostate" Name="PS_16"/>
+      <states xsi:type="test:State" Name="S_32"/>
+      <transitions Name="T_64"/>
+    </regions>
+  </statemachines>
+  <statemachines Name="SM-PScoordinator">
+    <regions Name="Region1">
+      <states xsi:type="test:Pseudostate" Name="PS_17"/>
+      <states xsi:type="test:State" Name="S_33"/>
+      <states xsi:type="test:State" Name="S_34"/>
+      <states xsi:type="test:State" Name="S_35"/>
+      <states xsi:type="test:State" Name="S_36"/>
+      <states xsi:type="test:State" Name="S_37"/>
+      <states xsi:type="test:State" Name="S_38"/>
+      <states xsi:type="test:State" Name="S_39"/>
+      <states xsi:type="test:State" Name="S_40"/>
+      <states xsi:type="test:State" Name="S_41"/>
+      <transitions Name="T_65"/>
+      <transitions Name="T_66"/>
+      <transitions Name="T_67"/>
+      <transitions Name="T_68"/>
+      <transitions Name="T_69"/>
+      <transitions Name="T_70"/>
+      <transitions Name="T_71"/>
+      <transitions Name="T_72"/>
+      <transitions Name="T_73"/>
+      <transitions Name="T_74"/>
+    </regions>
+    <regions Name="Region2">
+      <states xsi:type="test:Pseudostate" Name="PS_18"/>
+      <states xsi:type="test:State" Name="S_42"/>
+      <states xsi:type="test:State" Name="S_43"/>
+      <transitions Name="T_75"/>
+      <transitions Name="T_76"/>
+    </regions>
+  </statemachines>
+  <models Name="Domain">
+    <dassociations Name="bCMSSystem_contain_fSCSystem"/>
+    <dassociations Name="bCMSSystem_contain_pSCSystem"/>
+    <dassociations Name="routeFireTrucks_route_routePlan"/>
+    <dassociations Name="routePoliceCars_route_routePlan"/>
+    <dassociations Name="communicationInfrastructure_access_communicationCompromisers"/>
+    <dassociations Name="crisis_allocate_policeCars"/>
+    <dassociations Name="crisis_allocate_fireTrucks"/>
+    <dassociations Name="routePlans_develop_pSCSystem"/>
+    <dassociations Name="fireTruck_follow_routeFireTruck"/>
+    <dassociations Name="routePoliceCar_follow_policeCar"/>
+    <dassociations Name="crisis_handle_bCMSSystem"/>
+    <dassociations Name="victims_interact_policeOfficers"/>
+    <dassociations Name="firemen_interact_fScoordinator"/>
+    <dassociations Name="fScoordinator_interact_fSCSystem"/>
+    <dassociations Name="witnesses_interact_firemen"/>
+    <dassociations Name="policeOfficers_interact_pScoordinator"/>
+    <dassociations Name="witnesses_interact_policeOfficers"/>
+    <dassociations Name="victims_interact_firemen"/>
+    <dassociations Name="pScoordinator_interact_pSCSystem"/>
+    <dassociations Name="policeCars_manage_pScoordinator"/>
+    <dassociations Name="fireTrucks_manage_fScoordinator"/>
+    <dassociations Name="routePlan_receive_fSCSystem"/>
+    <dassociations Name="timeoutLog_register_pSCSystem"/>
+    <dassociations Name="timeoutLog_register_fSCSystem"/>
+    <dassociations Name="bCMSSystem_regulate_govermentAgency"/>
+    <dassociations Name="timeoutLog_report_pScoordinator"/>
+    <dassociations Name="timeoutLog_report_fScoordinator"/>
+    <dassociations Name="communicationInfrastructure_use_bCMSSystem"/>
+    <dclasses Name="BCMSSystem">
+      <properties Name="P_1"/>
+      <properties Name="P_2"/>
+      <properties Name="P_3"/>
+      <properties Name="P_4"/>
+      <properties Name="P_5"/>
+    </dclasses>
+    <dclasses Name="CommunicationCompromiser">
+      <properties Name="P_6"/>
+    </dclasses>
+    <dclasses Name="CommunicationInfrastructure">
+      <properties Name="P_7"/>
+      <properties Name="P_8"/>
+    </dclasses>
+    <dclasses Name="Credential">
+      <properties Name="P_9"/>
+      <properties Name="P_10"/>
+      <properties Name="P_11"/>
+    </dclasses>
+    <dclasses Name="Crisis">
+      <properties Name="P_12"/>
+      <properties Name="P_13"/>
+      <properties Name="P_14"/>
+      <properties Name="P_15"/>
+      <properties Name="P_16"/>
+      <properties Name="P_17"/>
+      <properties Name="P_18"/>
+      <properties Name="P_19"/>
+      <properties Name="P_20"/>
+    </dclasses>
+    <dclasses Name="Fireman">
+      <properties Name="P_21"/>
+      <properties Name="P_22"/>
+      <properties Name="P_23"/>
+    </dclasses>
+    <dclasses Name="FireTruck">
+      <properties Name="P_24"/>
+      <properties Name="P_25"/>
+      <properties Name="P_26"/>
+      <properties Name="P_27"/>
+    </dclasses>
+    <dclasses Name="FScoordinator">
+      <properties Name="P_28"/>
+      <properties Name="P_29"/>
+      <properties Name="P_30"/>
+      <properties Name="P_31"/>
+      <properties Name="P_32"/>
+    </dclasses>
+    <dclasses Name="FSCSystem">
+      <properties Name="P_33"/>
+      <properties Name="P_34"/>
+      <properties Name="P_35"/>
+      <properties Name="P_36"/>
+      <properties Name="P_37"/>
+      <properties Name="P_38"/>
+    </dclasses>
+    <dclasses Name="GovermentAgency">
+      <properties Name="P_39"/>
+    </dclasses>
+    <dclasses Name="GPS">
+      <properties Name="P_40"/>
+      <properties Name="P_41"/>
+    </dclasses>
+    <dclasses Name="PoliceCar">
+      <properties Name="P_42"/>
+      <properties Name="P_43"/>
+      <properties Name="P_44"/>
+      <properties Name="P_45"/>
+    </dclasses>
+    <dclasses Name="PoliceOfficer">
+      <properties Name="P_46"/>
+      <properties Name="P_47"/>
+      <properties Name="P_48"/>
+    </dclasses>
+    <dclasses Name="PScoordinator">
+      <properties Name="P_49"/>
+      <properties Name="P_50"/>
+      <properties Name="P_51"/>
+      <properties Name="P_52"/>
+      <properties Name="P_53"/>
+    </dclasses>
+    <dclasses Name="PSCSystem">
+      <properties Name="P_54"/>
+      <properties Name="P_55"/>
+      <properties Name="P_56"/>
+      <properties Name="P_57"/>
+      <properties Name="P_58"/>
+      <properties Name="P_59"/>
+      <properties Name="P_60"/>
+    </dclasses>
+    <dclasses Name="Route">
+      <properties Name="P_61"/>
+      <properties Name="P_62"/>
+    </dclasses>
+    <dclasses Name="RouteFireTruck">
+      <properties Name="P_63"/>
+      <properties Name="P_64"/>
+      <general Name="G_1"/>
+    </dclasses>
+    <dclasses Name="RoutePlan">
+      <properties Name="P_65"/>
+      <properties Name="P_66"/>
+      <properties Name="P_67"/>
+      <properties Name="P_68"/>
+      <properties Name="P_69"/>
+      <properties Name="P_70"/>
+      <properties Name="P_71"/>
+    </dclasses>
+    <dclasses Name="RoutePoliceCar">
+      <properties Name="P_72"/>
+      <properties Name="P_73"/>
+      <general Name="G_2"/>
+    </dclasses>
+    <dclasses Name="TimeoutLog">
+      <properties Name="P_74"/>
+      <properties Name="P_75"/>
+      <properties Name="P_76"/>
+      <properties Name="P_77"/>
+      <properties Name="P_78"/>
+      <properties Name="P_79"/>
+      <properties Name="P_80"/>
+      <properties Name="P_81"/>
+    </dclasses>
+    <dclasses Name="Victim">
+      <properties Name="P_82"/>
+      <properties Name="P_83"/>
+    </dclasses>
+    <dclasses Name="Witness">
+      <properties Name="P_84"/>
+      <properties Name="P_85"/>
+    </dclasses>
+    <dclasses Name="PScoordinatorNoEncryption">
+      <general Name="G_3"/>
+    </dclasses>
+    <dclasses Name="FScoordinatorNoEncryption">
+      <general Name="G_4"/>
+    </dclasses>
+    <dclasses Name="PSCSystemNoEncryption">
+      <general Name="G_5"/>
+    </dclasses>
+    <dclasses Name="FSCSystemNoEncryption">
+      <general Name="G_6"/>
+    </dclasses>
+  </models>
+  <models Name="Architecture">
+    <dassociations Name="pSCSystem_call_fSCSystem"/>
+    <dassociations Name="fSCSystem_call_pSCSystem"/>
+    <dclasses Name="FSCSystem">
+      <properties Name="P_86"/>
+      <properties Name="P_87"/>
+      <properties Name="P_88"/>
+    </dclasses>
+    <dclasses Name="PSCSystem">
+      <properties Name="P_89"/>
+      <properties Name="P_90"/>
+      <properties Name="P_91"/>
+      <properties Name="P_92"/>
+    </dclasses>
+  </models>
+</test:Model>

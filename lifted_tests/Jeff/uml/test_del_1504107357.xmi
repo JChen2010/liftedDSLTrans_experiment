@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?>
+<test:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:test="http://test/144.0" Name="bCMS">
+  <classes Name="Class1">
+    <properties Name="Prop1"/>
+  </classes>
+  <classes Name="Class2">
+    <delete/>
+  </classes>
+  <models Name="Domain">
+    <dclasses Name="Class3"/>
+    <dcomments body="" Name="Comment1"/>
+  </models>
+  <models Name="Architecture"/>
+</test:Model>

@@ -1,0 +1,11 @@
+(xor _C1 _C2 _C3 _P1 _G1 _D1 _D2 _C2P1 _C2G1 _D1C3)
+Class;Class1;_C1
+Class;Class2;_C2
+Class;Class3;_C1
+Property;Prop1;_P1
+Generalization;Gen1;_G1
+DomainModel;Domain;_D1
+DomainModel;Architecture;_D2
+properties;Class;Class2;Property;Prop1;_C2P1
+general;Class;Class2;Generalization;Gen1;_C2G1
+dclasses;DomainModel;Domain;Class;Class3;_D1C3

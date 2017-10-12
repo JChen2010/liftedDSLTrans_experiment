@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dsltrans="http://dsltrans/2.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_JyWg0JIXEeeUIoOoTylQqg" type="Dsltrans" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_yt0F0JIkEee8FLPsBcCeVQ" type="2002" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yt0F05IkEee8FLPsBcCeVQ" type="5015"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s4JIkEee8FLPsBcCeVQ" type="7019"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt0F0ZIkEee8FLPsBcCeVQ"/>
+    <element xmi:type="dsltrans:FilePort" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt0F0pIkEee8FLPsBcCeVQ" x="71"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yt0s4ZIkEee8FLPsBcCeVQ" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yt0s55IkEee8FLPsBcCeVQ" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s6JIkEee8FLPsBcCeVQ" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s6ZIkEee8FLPsBcCeVQ" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_yt0s4pIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yt0s45IkEee8FLPsBcCeVQ" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_yt0s5JIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt0s5ZIkEee8FLPsBcCeVQ"/>
+    <element xmi:type="dsltrans:Sequential" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt0s5pIkEee8FLPsBcCeVQ" x="25" y="143"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yt0s6pIkEee8FLPsBcCeVQ" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yt0s8JIkEee8FLPsBcCeVQ" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s8ZIkEee8FLPsBcCeVQ" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s8pIkEee8FLPsBcCeVQ" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_yt6zg5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yt6zhpIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt6zh5IkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt6ziJIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt6zhJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2/@hasRule.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt6zhZIkEee8FLPsBcCeVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yt6ziZIkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yt6zjJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt6zjZIkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt6zjpIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt6zipIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2/@hasRule.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt6zi5IkEee8FLPsBcCeVQ" x="10" y="10"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yt6zj5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yt7akJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7akZIkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7akpIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt6zkJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2/@hasRule.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt6zkZIkEee8FLPsBcCeVQ" x="345" y="18"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yt7ak5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yt7alpIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7al5IkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7amJIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt7alJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2/@hasRule.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt7alZIkEee8FLPsBcCeVQ" x="30" y="30"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yt7amZIkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yt7anJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7anZIkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yt7anpIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt7ampIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2/@hasRule.4"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt7am5IkEee8FLPsBcCeVQ" x="40" y="40"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_yt0s65IkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yt0s7JIkEee8FLPsBcCeVQ" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_yt0s7ZIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt0s7pIkEee8FLPsBcCeVQ"/>
+    <element xmi:type="dsltrans:Sequential" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt0s75IkEee8FLPsBcCeVQ" x="5" y="703"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yt0s85IkEee8FLPsBcCeVQ" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yt0s-ZIkEee8FLPsBcCeVQ" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s-pIkEee8FLPsBcCeVQ" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0s-5IkEee8FLPsBcCeVQ" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_yuNHY5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNucJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNucZIkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNucpIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNHZJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNHZZIkEee8FLPsBcCeVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yuNuc5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNudpIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNud5IkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNueJIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNudJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNudZIkEee8FLPsBcCeVQ" x="10" y="10"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yuNueZIkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNufJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNufZIkEee8FLPsBcCeVQ" type="7003">
+          <children xmi:type="notation:Shape" xmi:id="_yuUcIJIkEee8FLPsBcCeVQ" type="3003" fontName="Sans">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_yuUcI5IkEee8FLPsBcCeVQ" type="7005">
+              <children xmi:type="notation:Node" xmi:id="_yuUcJJIkEee8FLPsBcCeVQ" type="3004">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuVDMJIkEee8FLPsBcCeVQ" type="5005"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuVDMZIkEee8FLPsBcCeVQ" type="7006"/>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_yuUcJZIkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_yuUcJpIkEee8FLPsBcCeVQ" fontName="Sans"/>
+                <styles xmi:type="notation:FillStyle" xmi:id="_yuUcJ5IkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuUcKJIkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:AnyMatchClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@match.0/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuUcKZIkEee8FLPsBcCeVQ"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_yuVDMpIkEee8FLPsBcCeVQ" type="3004">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuVDOJIkEee8FLPsBcCeVQ" type="5005"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuVDOZIkEee8FLPsBcCeVQ" type="7006"/>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_yuVDM5IkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_yuVDNJIkEee8FLPsBcCeVQ" fontName="Sans"/>
+                <styles xmi:type="notation:FillStyle" xmi:id="_yuVDNZIkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuVDNpIkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:AnyMatchClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@match.0/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuVDN5IkEee8FLPsBcCeVQ" x="97" y="12"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_yuVDOpIkEee8FLPsBcCeVQ" type="3004">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuVDQJIkEee8FLPsBcCeVQ" type="5005"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuVDQZIkEee8FLPsBcCeVQ" type="7006"/>
+                <styles xmi:type="notation:DescriptionStyle" xmi:id="_yuVDO5IkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:FontStyle" xmi:id="_yuVDPJIkEee8FLPsBcCeVQ" fontName="Sans"/>
+                <styles xmi:type="notation:FillStyle" xmi:id="_yuVDPZIkEee8FLPsBcCeVQ"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuVDPpIkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:AnyMatchClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@match.0/@class.2"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuVDP5IkEee8FLPsBcCeVQ" x="232" y="21"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuUcIZIkEee8FLPsBcCeVQ"/>
+            <element xmi:type="dsltrans:MatchModel" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@match.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuUcIpIkEee8FLPsBcCeVQ"/>
+          </children>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNufpIkEee8FLPsBcCeVQ" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_yuWRVZIkEee8FLPsBcCeVQ" type="3010">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_yuW4YJIkEee8FLPsBcCeVQ" type="7010">
+              <children xmi:type="notation:Shape" xmi:id="_yuW4YZIkEee8FLPsBcCeVQ" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuW4ZJIkEee8FLPsBcCeVQ" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuW4ZZIkEee8FLPsBcCeVQ" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuW4YpIkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:ApplyClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@apply/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuW4Y5IkEee8FLPsBcCeVQ" x="187" y="10"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_yuW4ZpIkEee8FLPsBcCeVQ" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuW4aZIkEee8FLPsBcCeVQ" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuW4apIkEee8FLPsBcCeVQ" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuW4Z5IkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:ApplyClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@apply/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuW4aJIkEee8FLPsBcCeVQ" x="349" y="19"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_yuW4a5IkEee8FLPsBcCeVQ" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_yuW4bpIkEee8FLPsBcCeVQ" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_yuW4b5IkEee8FLPsBcCeVQ" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuW4bJIkEee8FLPsBcCeVQ"/>
+                <element xmi:type="dsltrans:ApplyClass" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@apply/@class.2"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuW4bZIkEee8FLPsBcCeVQ" x="20" y="20"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_yuWRVpIkEee8FLPsBcCeVQ"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_yuWRV5IkEee8FLPsBcCeVQ" fontName="Sans"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_yuWRWJIkEee8FLPsBcCeVQ"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuWRWZIkEee8FLPsBcCeVQ"/>
+            <element xmi:type="dsltrans:ApplyModel" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2/@apply"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuWRWpIkEee8FLPsBcCeVQ"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNuepIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNue5IkEee8FLPsBcCeVQ" x="368" y="3"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yuNuf5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNugpIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNug5IkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNuhJIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNugJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNugZIkEee8FLPsBcCeVQ" x="30" y="30"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yuNuhZIkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNuiJIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNuiZIkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNuipIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNuhpIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.4"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNuh5IkEee8FLPsBcCeVQ" x="40" y="40"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yuNui5IkEee8FLPsBcCeVQ" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yuNujpIkEee8FLPsBcCeVQ" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNuj5IkEee8FLPsBcCeVQ" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yuNukJIkEee8FLPsBcCeVQ" type="7004"/>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yuNujJIkEee8FLPsBcCeVQ"/>
+        <element xmi:type="dsltrans:Rule" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3/@hasRule.5"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yuNujZIkEee8FLPsBcCeVQ" x="50" y="50"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_yt0s9JIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yt0s9ZIkEee8FLPsBcCeVQ" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_yt0s9pIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt0s95IkEee8FLPsBcCeVQ"/>
+    <element xmi:type="dsltrans:Sequential" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt0s-JIkEee8FLPsBcCeVQ" y="1303"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_yt0s_JIkEee8FLPsBcCeVQ" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_yt0tApIkEee8FLPsBcCeVQ" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0tA5IkEee8FLPsBcCeVQ" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_yt0tBJIkEee8FLPsBcCeVQ" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_yt0s_ZIkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_yt0s_pIkEee8FLPsBcCeVQ" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_yt0s_5IkEee8FLPsBcCeVQ"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_yt0tAJIkEee8FLPsBcCeVQ"/>
+    <element xmi:type="dsltrans:Sequential" href="DELETE_COMMENT_from_DOMAIN.dsltrans#//@source.4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yt0tAZIkEee8FLPsBcCeVQ" x="18" y="1894"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_JyWg0ZIXEeeUIoOoTylQqg"/>
+  <element xmi:type="dsltrans:TransformationModel" href="DELETE_COMMENT_from_DOMAIN.dsltrans#/"/>
+</notation:Diagram>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dsltrans="http://dsltrans/2.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_YRUV8ExzEeWexZcDqgu4Rw" type="Dsltrans" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_mpPbAI6SEeexv5zG7I1itw" type="2002" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mpPbA46SEeexv5zG7I1itw" type="5015"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mpPbBI6SEeexv5zG7I1itw" type="7019"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpPbAY6SEeexv5zG7I1itw"/>
+    <element xmi:type="dsltrans:FilePort" href="negative_indirect_trans.dsltrans#//@source.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpPbAo6SEeexv5zG7I1itw" x="1"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_mpPbBY6SEeexv5zG7I1itw" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mpPbC46SEeexv5zG7I1itw" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mpPbDI6SEeexv5zG7I1itw" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mpPbDY6SEeexv5zG7I1itw" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_mpPbBo6SEeexv5zG7I1itw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_mpPbB46SEeexv5zG7I1itw" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_mpPbCI6SEeexv5zG7I1itw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpPbCY6SEeexv5zG7I1itw"/>
+    <element xmi:type="dsltrans:Sequential" href="negative_indirect_trans.dsltrans#//@source.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpPbCo6SEeexv5zG7I1itw" x="1" y="143"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_mpPbDo6SEeexv5zG7I1itw" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_mpPbFI6SEeexv5zG7I1itw" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mpPbFY6SEeexv5zG7I1itw" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_mpPbFo6SEeexv5zG7I1itw" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_mpYk8I6SEeexv5zG7I1itw" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_mpYk846SEeexv5zG7I1itw" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_mpYk9I6SEeexv5zG7I1itw" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_mpYk9Y6SEeexv5zG7I1itw" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_mpc2YI6SEeexv5zG7I1itw" type="3010">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_mpc2Zo6SEeexv5zG7I1itw" type="7010">
+              <children xmi:type="notation:Shape" xmi:id="_mpddcI6SEeexv5zG7I1itw" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_mpddc46SEeexv5zG7I1itw" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_mpdddI6SEeexv5zG7I1itw" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpddcY6SEeexv5zG7I1itw"/>
+                <element xmi:type="dsltrans:ApplyClass" href="negative_indirect_trans.dsltrans#//@source.2/@hasRule.0/@apply/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpddco6SEeexv5zG7I1itw" x="276" y="4"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_mpdddY6SEeexv5zG7I1itw" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_mpddeI6SEeexv5zG7I1itw" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_mpddeY6SEeexv5zG7I1itw" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpdddo6SEeexv5zG7I1itw"/>
+                <element xmi:type="dsltrans:ApplyClass" href="negative_indirect_trans.dsltrans#//@source.2/@hasRule.0/@apply/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpddd46SEeexv5zG7I1itw" x="24" y="4"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_mpc2YY6SEeexv5zG7I1itw"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_mpc2Yo6SEeexv5zG7I1itw" fontName="Sans"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_mpc2Y46SEeexv5zG7I1itw"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpc2ZI6SEeexv5zG7I1itw"/>
+            <element xmi:type="dsltrans:ApplyModel" href="negative_indirect_trans.dsltrans#//@source.2/@hasRule.0/@apply"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpc2ZY6SEeexv5zG7I1itw"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpYk8Y6SEeexv5zG7I1itw"/>
+        <element xmi:type="dsltrans:Rule" href="negative_indirect_trans.dsltrans#//@source.2/@hasRule.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpYk8o6SEeexv5zG7I1itw"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_mpPbD46SEeexv5zG7I1itw"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_mpPbEI6SEeexv5zG7I1itw" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_mpPbEY6SEeexv5zG7I1itw"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_mpPbEo6SEeexv5zG7I1itw"/>
+    <element xmi:type="dsltrans:Sequential" href="negative_indirect_trans.dsltrans#//@source.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mpPbE46SEeexv5zG7I1itw" y="621"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_YRUV8UxzEeWexZcDqgu4Rw"/>
+  <element xmi:type="dsltrans:TransformationModel" href="negative_indirect_trans.dsltrans#/"/>
+</notation:Diagram>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<library:Library
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:library="http://library/3.0"
+    xsi:schemaLocation="http://library/3.0 library.ecore"
+    Name="L1">
+  <books Name="Gone with the Wind"
+      genre="Romance"/>
+  <books Name="Lord of the Rings"
+      genre="Fantasy"/>
+  <books Name="Introduction to Algorithms"
+      genre="Computer Science"/>
+  <books Name="Lincoln"
+      genre="Biography"/>
+  <books Name="Game of Thrones"
+      genre="Fantasy"/>
+  <nonfiction
+      members="//@books.2 //@books.3"
+      Name="NF1"/>
+  <fiction members="//@books.0 //@books.1 //@books.4"
+      Name="F1"/>
+</library:Library>

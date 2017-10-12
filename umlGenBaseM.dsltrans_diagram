@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dsltrans="http://dsltrans/2.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_vSuhkJxBEeez8pqmoXy-_w" type="Dsltrans" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_vWQWsJxBEeez8pqmoXy-_w" type="2002" fontName="Sans">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQWs5xBEeez8pqmoXy-_w" type="5015"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQWtJxBEeez8pqmoXy-_w" type="7019"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQWsZxBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:FilePort" href="umlGenBaseM.dsltrans#//@source.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQWspxBEeez8pqmoXy-_w" x="811"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vWQWtZxBEeez8pqmoXy-_w" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQ9wJxBEeez8pqmoXy-_w" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ9wZxBEeez8pqmoXy-_w" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ9wpxBEeez8pqmoXy-_w" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vWQWtpxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vWQWt5xBEeez8pqmoXy-_w" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_vWQWuJxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQWuZxBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:Sequential" href="umlGenBaseM.dsltrans#//@source.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQWupxBEeez8pqmoXy-_w" x="694" y="143"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vWQ9w5xBEeez8pqmoXy-_w" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQ9yZxBEeez8pqmoXy-_w" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ9ypxBEeez8pqmoXy-_w" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ9y5xBEeez8pqmoXy-_w" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vWQ9xJxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vWQ9xZxBEeez8pqmoXy-_w" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_vWQ9xpxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQ9x5xBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:Sequential" href="umlGenBaseM.dsltrans#//@source.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQ9yJxBEeez8pqmoXy-_w" x="242" y="659"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vWQ9zJxBEeez8pqmoXy-_w" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQ90pxBEeez8pqmoXy-_w" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ905xBEeez8pqmoXy-_w" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ91JxBEeez8pqmoXy-_w" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vWQ9zZxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vWQ9zpxBEeez8pqmoXy-_w" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_vWQ9z5xBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQ90JxBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:Sequential" href="umlGenBaseM.dsltrans#//@source.3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQ90ZxBEeez8pqmoXy-_w" y="1175"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vWQ91ZxBEeez8pqmoXy-_w" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQ925xBEeez8pqmoXy-_w" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ93JxBEeez8pqmoXy-_w" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ93ZxBEeez8pqmoXy-_w" type="7002"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vWQ91pxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vWQ915xBEeez8pqmoXy-_w" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_vWQ92JxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQ92ZxBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:Sequential" href="umlGenBaseM.dsltrans#//@source.4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQ92pxBEeez8pqmoXy-_w" x="361" y="1652"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_vWQ93pxBEeez8pqmoXy-_w" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vWQ95JxBEeez8pqmoXy-_w" type="5014"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ95ZxBEeez8pqmoXy-_w" type="7001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_vWQ95pxBEeez8pqmoXy-_w" type="7002">
+      <children xmi:type="notation:Shape" xmi:id="_vaHjAJxBEeez8pqmoXy-_w" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_vaHjA5xBEeez8pqmoXy-_w" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjBJxBEeez8pqmoXy-_w" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjBZxBEeez8pqmoXy-_w" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_vaKmUpxBEeez8pqmoXy-_w" type="3010">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_vaLNYJxBEeez8pqmoXy-_w" type="7010">
+              <children xmi:type="notation:Shape" xmi:id="_vaLNYZxBEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vaLNZJxBEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_vaLNZZxBEeez8pqmoXy-_w" type="7011">
+                  <children xmi:type="notation:Shape" xmi:id="_vaMbgJxBEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_vaMbg5xBEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_vaMbhJxBEeez8pqmoXy-_w" type="7012"/>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaMbgZxBEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply/@class.0/@attribute.0"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaMbgpxBEeez8pqmoXy-_w"/>
+                  </children>
+                  <children xmi:type="notation:Shape" xmi:id="_WWmlwJxCEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_WWmlw5xCEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_WWmlxJxCEeez8pqmoXy-_w" type="7012">
+                      <children xmi:type="notation:Shape" xmi:id="_cItHQJxCEeez8pqmoXy-_w" type="3014" fontName="Sans">
+                        <children xmi:type="notation:DecorationNode" xmi:id="_cItHQpxCEeez8pqmoXy-_w" type="5008"/>
+                        <element xmi:type="dsltrans:Atom" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply/@class.0/@attribute.1/@attributeValue"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cItHQZxCEeez8pqmoXy-_w" x="8" y="13"/>
+                      </children>
+                    </children>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_WWmlwZxCEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply/@class.0/@attribute.1"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WWmlwpxCEeez8pqmoXy-_w" x="6" y="104" height="127"/>
+                  </children>
+                </children>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaLNYpxBEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaLNY5xBEeez8pqmoXy-_w" height="290"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_vaL0cJxBEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vaL0c5xBEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_vaL0dJxBEeez8pqmoXy-_w" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaL0cZxBEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaL0cpxBEeez8pqmoXy-_w" x="196"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_vaKmU5xBEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_vaKmVJxBEeez8pqmoXy-_w" fontName="Sans"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_vaKmVZxBEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaKmVpxBEeez8pqmoXy-_w"/>
+            <element xmi:type="dsltrans:ApplyModel" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0/@apply"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaKmV5xBEeez8pqmoXy-_w" height="356"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaHjAZxBEeez8pqmoXy-_w"/>
+        <element xmi:type="dsltrans:Rule" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaHjApxBEeez8pqmoXy-_w" height="611"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_vaHjBpxBEeez8pqmoXy-_w" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_vaHjCZxBEeez8pqmoXy-_w" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjCpxBEeez8pqmoXy-_w" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjC5xBEeez8pqmoXy-_w" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_vaYowJxBEeez8pqmoXy-_w" type="3010">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_vaYoxpxBEeez8pqmoXy-_w" type="7010">
+              <children xmi:type="notation:Shape" xmi:id="_vaZP0JxBEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vaZP05xBEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_vaZP1JxBEeez8pqmoXy-_w" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaZP0ZxBEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaZP0pxBEeez8pqmoXy-_w" x="205" y="-2"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_vaZP1ZxBEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vaZP2JxBEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_vaZP2ZxBEeez8pqmoXy-_w" type="7011">
+                  <children xmi:type="notation:Shape" xmi:id="_vabFAJxBEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_vabFA5xBEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_vabFBJxBEeez8pqmoXy-_w" type="7012"/>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vabFAZxBEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.1/@attribute.0"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vabFApxBEeez8pqmoXy-_w"/>
+                  </children>
+                  <children xmi:type="notation:Shape" xmi:id="_UK7_cJxCEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_UK7_c5xCEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_UK7_dJxCEeez8pqmoXy-_w" type="7012">
+                      <children xmi:type="notation:Shape" xmi:id="_bN7hEJxCEeez8pqmoXy-_w" type="3014" fontName="Sans">
+                        <children xmi:type="notation:DecorationNode" xmi:id="_bN8IIJxCEeez8pqmoXy-_w" type="5008"/>
+                        <element xmi:type="dsltrans:Atom" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.1/@attribute.1/@attributeValue"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bN7hEZxCEeez8pqmoXy-_w" x="14" y="20"/>
+                      </children>
+                    </children>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_UK7_cZxCEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.1/@attribute.1"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UK7_cpxCEeez8pqmoXy-_w" x="8" y="95" height="118"/>
+                  </children>
+                </children>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaZP1pxBEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaZP15xBEeez8pqmoXy-_w" x="16" y="-2" height="272"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_vaZP2pxBEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_vaZP3ZxBEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_vaZP3pxBEeez8pqmoXy-_w" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaZP25xBEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply/@class.2"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaZP3JxBEeez8pqmoXy-_w" x="392"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_vaYowZxBEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_vaYowpxBEeez8pqmoXy-_w" fontName="Sans"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_vaYow5xBEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaYoxJxBEeez8pqmoXy-_w"/>
+            <element xmi:type="dsltrans:ApplyModel" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1/@apply"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaYoxZxBEeez8pqmoXy-_w" height="333"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaHjB5xBEeez8pqmoXy-_w"/>
+        <element xmi:type="dsltrans:Rule" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaHjCJxBEeez8pqmoXy-_w" x="378" y="5" height="614"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_vaHjDJxBEeez8pqmoXy-_w" type="3002" fontName="Sans">
+        <children xmi:type="notation:DecorationNode" xmi:id="_vaHjD5xBEeez8pqmoXy-_w" type="5013"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjEJxBEeez8pqmoXy-_w" type="7003"/>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_vaHjEZxBEeez8pqmoXy-_w" type="7004">
+          <children xmi:type="notation:Node" xmi:id="_Ihac8JxVEeez8pqmoXy-_w" type="3010">
+            <children xmi:type="notation:BasicCompartment" xmi:id="_Ihac9pxVEeez8pqmoXy-_w" type="7010">
+              <children xmi:type="notation:Shape" xmi:id="_IhbEAJxVEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_IhbEA5xVEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_IhbEBJxVEeez8pqmoXy-_w" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_IhbEAZxVEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IhbEApxVEeez8pqmoXy-_w"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_IhbEBZxVEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_IhbECJxVEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_IhbECZxVEeez8pqmoXy-_w" type="7011">
+                  <children xmi:type="notation:Shape" xmi:id="_IhdgQJxVEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_IhdgQ5xVEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_IhdgRJxVEeez8pqmoXy-_w" type="7012"/>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_IhdgQZxVEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.1/@attribute.0"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IhdgQpxVEeez8pqmoXy-_w"/>
+                  </children>
+                  <children xmi:type="notation:Shape" xmi:id="_Nja-QJxVEeez8pqmoXy-_w" type="3012" fontName="Sans">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_Nja-Q5xVEeez8pqmoXy-_w" type="5011"/>
+                    <children xmi:type="notation:BasicCompartment" xmi:id="_Nja-RJxVEeez8pqmoXy-_w" type="7012">
+                      <children xmi:type="notation:Shape" xmi:id="_RfGJoJxVEeez8pqmoXy-_w" type="3014" fontName="Sans">
+                        <children xmi:type="notation:DecorationNode" xmi:id="_RfGJopxVEeez8pqmoXy-_w" type="5008"/>
+                        <element xmi:type="dsltrans:Atom" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.1/@attribute.1/@attributeValue"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RfGJoZxVEeez8pqmoXy-_w" x="8" y="3"/>
+                      </children>
+                    </children>
+                    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Nja-QZxVEeez8pqmoXy-_w"/>
+                    <element xmi:type="dsltrans:ApplyAttribute" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.1/@attribute.1"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nja-QpxVEeez8pqmoXy-_w" x="8" y="94"/>
+                  </children>
+                </children>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_IhbEBpxVEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IhbEB5xVEeez8pqmoXy-_w" x="160" y="73" height="226"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_IhbECpxVEeez8pqmoXy-_w" type="3011" fontName="Sans">
+                <children xmi:type="notation:DecorationNode" xmi:id="_IhbrEJxVEeez8pqmoXy-_w" type="5012"/>
+                <children xmi:type="notation:BasicCompartment" xmi:id="_IhbrEZxVEeez8pqmoXy-_w" type="7011"/>
+                <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_IhbEC5xVEeez8pqmoXy-_w"/>
+                <element xmi:type="dsltrans:ApplyClass" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply/@class.2"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IhbEDJxVEeez8pqmoXy-_w" x="362"/>
+              </children>
+            </children>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_Ihac8ZxVEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_Ihac8pxVEeez8pqmoXy-_w" fontName="Sans"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_Ihac85xVEeez8pqmoXy-_w"/>
+            <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_Ihac9JxVEeez8pqmoXy-_w"/>
+            <element xmi:type="dsltrans:ApplyModel" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2/@apply"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ihac9ZxVEeez8pqmoXy-_w"/>
+          </children>
+        </children>
+        <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vaHjDZxBEeez8pqmoXy-_w"/>
+        <element xmi:type="dsltrans:Rule" href="umlGenBaseM.dsltrans#//@source.5/@hasRule.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaHjDpxBEeez8pqmoXy-_w" x="954" y="5"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_vWQ935xBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vWQ94JxBEeez8pqmoXy-_w" fontName="Sans"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_vWQ94ZxBEeez8pqmoXy-_w"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_vWQ94pxBEeez8pqmoXy-_w"/>
+    <element xmi:type="dsltrans:Sequential" href="umlGenBaseM.dsltrans#//@source.5"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWQ945xBEeez8pqmoXy-_w" x="341" y="2129" height="806"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_vSuhkZxBEeez8pqmoXy-_w"/>
+  <element xmi:type="dsltrans:TransformationModel" href="umlGenBaseM.dsltrans#/"/>
+</notation:Diagram>

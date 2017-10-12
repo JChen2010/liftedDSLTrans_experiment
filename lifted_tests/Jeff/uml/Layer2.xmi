@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII" standalone="no"?>
+<test:Model xmlns:test="http://test/144.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="rootElem" xmi:version="2.0" xsi:schemaLocation="http://test/144.0 myuml_test.ecore">
+  <classes Name="Class1"/>
+  <classes Name="Class2"/>
+  <models Name="Domain"/>
+</test:Model>

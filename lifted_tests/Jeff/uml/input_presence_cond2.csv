@@ -1,0 +1,26 @@
+(xor _M1 _F0 _F1 _DEAD)
+Model;bCMS;_M1
+R1;Region;(not _F0)
+Property;Cr41;_F0
+Prop1;Property;(not _F0)
+DomainModel;Architecture;(not _F0)
+comment;Comment1;(not _F0)
+Class;Cr40;_F0
+Class;Class3;(not _F0)
+Class;Class2;(not _F0)
+Class;Cr39;_F0
+Class;Class1;(not _F0)
+Class;Cr38;_F0
+Class;Cr37;_F0
+Class;Cr36;_F1
+Class;Cr35;_F1
+Class;Cr34;_F1
+Class;Cr33;_F1
+Class;Cr32;_F1
+Class;Cr31;_F1
+Class;Cr30;_F1
+Class;Cr29;_F1
+Class;Cr28;_F1
+Class;Cr27;_F1
+Class;Cr26;_F1
+Class;Cr25;_F1

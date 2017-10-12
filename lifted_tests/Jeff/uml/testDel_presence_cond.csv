@@ -1,0 +1,7 @@
+(xor _M1 _M2)
+Class;Class1;_M1
+Class;Class2;_M1
+DomainModel;Domain;_M1
+DomainModel;Architecture;_M2
+StateMachine;SM1;_M2
+Delete;_Del1;true

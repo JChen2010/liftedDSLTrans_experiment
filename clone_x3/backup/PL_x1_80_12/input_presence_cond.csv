@@ -1,0 +1,963 @@
+(xor _BC _M1 _F0 _F1 _F2 _F3 _F4 _F5 _F6 _F7 _F8 _F9 _F10 _F11 _F12 _F13 _F14 _F15 _F16 _F17 _F18 _F19 _F20 _F21 _F22 _F23 _F24 _F25 _F26 _F27 _F28 _F29 _F30 _F31 _F32 _F33 _F34 _F35 _F36 _F37 _F38 _F39 _F40 _F41 _F42 _F43 _F44 _F45 _F46 _F47 _F48 _F49 _F50 _F51 _F52 _F53 _F54 _F55 _F56 _F57 _F58 _F59 _F60 _F61 _F62 _F63 _F64 _F65 _F66 _F67 _F68 _F69 _F70 _F71 _F72 _F73 _F74 _F75 _F76 _F77 _F78 _F79)
+Model;bCMS;_M1
+Comment;C_1_Author;_BC
+Property;Cr_10000;_F0
+Property;C_1284_P_92;(not _F0)
+Property;C_1283_P_91;(not _F0)
+Region;Cr_9999;_F0
+Property;C_1282_P_90;(not _F0)
+Property;C_1281_P_89;(not _F0)
+Comment;Cr_9998;_F0
+Class;Cr_9997;_F0
+Property;Cr_9996;_F0
+Class;C_1280_PSCSystem;(not _F0)
+Property;C_1279_P_88;(not _F0)
+Property;C_1278_P_87;(not _F0)
+Property;C_1277_P_86;(not _F1)
+Property;Cr_9995;_F1
+Class;C_1276_FSCSystem;(not _F1)
+Association;Cr_9994;_F1
+Property;Cr_9993;_F1
+Association;C_1275_fSCSystem_call_pSCSystem;(not _F1)
+Association;Cr_9992;_F1
+Association;C_1274_pSCSystem_call_fSCSystem;(not _F1)
+Transition;Cr_9991;_F1
+Property;Cr_9990;_F1
+Property;Cr_9989;_F1
+Association;Cr_9988;_F1
+Transition;Cr_9987;_F2
+DomainModel;C_1273_Architecture;(not _F2)
+Generalization;C_1272_G_6;(not _F2)
+Comment;Cr_9986;_F2
+Class;C_1271_FSCSystemNoEncryption;(not _F2)
+Generalization;C_1270_G_5;(not _F2)
+Class;Cr_9985;_F2
+Comment;Cr_9984;_F2
+Class;C_1269_PSCSystemNoEncryption;(not _F2)
+Association;Cr_9983;_F2
+Property;Cr_9982;_F2
+Generalization;C_1268_G_4;(not _F2)
+Class;C_1267_FScoordinatorNoEncryption;(not _F3)
+Transition;Cr_9981;_F3
+Generalization;C_1266_G_3;(not _F3)
+Class;C_1265_PScoordinatorNoEncryption;(not _F3)
+Comment;Cr_9980;_F3
+Association;Cr_9979;_F3
+Property;C_1264_P_85;(not _F3)
+Property;C_1263_P_84;(not _F3)
+Class;C_1262_Witness;(not _F3)
+Transition;Cr_9978;_F3
+Comment;Cr_9977;_F3
+Association;Cr_9976;_F3
+Property;C_1261_P_83;(not _F4)
+Transition;Cr_9975;_F4
+Property;C_1260_P_82;(not _F4)
+Property;Cr_9974;_F4
+Region;Cr_9973;_F4
+Association;Cr_9972;_F4
+Association;Cr_9971;_F4
+Class;C_1259_Victim;(not _F4)
+Property;C_1258_P_81;(not _F4)
+Association;Cr_9970;_F4
+Association;Cr_9969;_F4
+Class;Cr_9968;_F4
+Property;C_1257_P_80;(not _F5)
+Region;Cr_9967;_F5
+Property;C_1256_P_79;(not _F5)
+Transition;Cr_9966;_F5
+Property;C_1255_P_78;(not _F5)
+Transition;Cr_9965;_F5
+Class;Cr_9964;_F5
+Comment;Cr_9963;_F5
+Association;Cr_9962;_F5
+Comment;Cr_9961;_F5
+Property;C_1254_P_77;(not _F5)
+Association;Cr_9960;_F5
+Comment;Cr_9959;_F6
+Property;C_1253_P_76;(not _F6)
+Property;C_1252_P_75;(not _F6)
+Comment;Cr_9958;_F6
+Transition;Cr_9957;_F6
+Transition;Cr_9956;_F6
+Comment;Cr_9955;_F6
+Transition;Cr_9954;_F6
+Region;Cr_9953;_F6
+Association;Cr_9952;_F6
+Association;Cr_9951;_F6
+Association;Cr_9950;_F6
+Region;Cr_9949;_F7
+Property;C_1251_P_74;(not _F7)
+Class;C_1250_TimeoutLog;(not _F7)
+Region;Cr_9948;_F7
+Region;Cr_9947;_F7
+Generalization;C_1249_G_2;(not _F7)
+Property;C_1248_P_73;(not _F7)
+Property;C_1247_P_72;(not _F7)
+Class;Cr_9946;_F7
+Transition;Cr_9945;_F7
+Class;C_1246_RoutePoliceCar;(not _F7)
+Class;Cr_9944;_F7
+Comment;Cr_9943;_F8
+Property;C_1245_P_71;(not _F8)
+Property;Cr_9942;_F8
+Region;Cr_9941;_F8
+Comment;Cr_9940;_F8
+Property;C_1244_P_70;(not _F8)
+Property;C_1243_P_69;(not _F8)
+Property;C_1242_P_68;(not _F8)
+Property;C_1241_P_67;(not _F8)
+Property;C_1240_P_66;(not _F8)
+Transition;Cr_9939;_F8
+Property;C_1239_P_65;(not _F8)
+Class;C_1238_RoutePlan;(not _F9)
+Association;Cr_9938;_F9
+Generalization;C_1237_G_1;(not _F9)
+Class;Cr_9937;_F9
+Class;Cr_9936;_F9
+Property;C_1236_P_64;(not _F9)
+Property;C_1235_P_63;(not _F9)
+Property;Cr_9935;_F9
+Class;C_1234_RouteFireTruck;(not _F9)
+Property;C_1233_P_62;(not _F9)
+Property;C_1232_P_61;(not _F9)
+Class;C_1231_Route;(not _F9)
+Property;C_1230_P_60;(not _F10)
+Class;Cr_9934;_F10
+Association;Cr_9933;_F10
+Property;C_1229_P_59;(not _F10)
+Property;C_1228_P_58;(not _F10)
+Class;Cr_9932;_F10
+Property;C_1227_P_57;(not _F10)
+Property;C_1226_P_56;(not _F10)
+Class;Cr_9931;_F10
+Property;C_1225_P_55;(not _F10)
+Property;C_1224_P_54;(not _F10)
+Class;C_1223_PSCSystem;(not _F10)
+Property;Cr_9930;_F11
+Class;Cr_9929;_F11
+Property;C_1222_P_53;(not _F11)
+Property;C_1221_P_52;(not _F11)
+Property;C_1220_P_51;(not _F11)
+Class;Cr_9928;_F11
+Property;Cr_9927;_F11
+Region;Cr_9926;_F11
+Comment;Cr_9925;_F11
+Property;Cr_9924;_F11
+Class;Cr_9923;_F11
+Property;C_1219_P_50;(not _F11)
+Association;Cr_9922;_F12
+Property;C_1218_P_49;(not _F12)
+Region;Cr_9921;_F12
+Class;C_1217_PScoordinator;(not _F12)
+Comment;Cr_9920;_F12
+Property;Cr_9919;_F12
+Class;Cr_9918;_F12
+Transition;Cr_9917;_F12
+Property;C_1216_P_48;(not _F12)
+Comment;Cr_9916;_F12
+Property;Cr_9915;_F12
+Property;C_1215_P_47;(not _F12)
+Region;Cr_9914;_F13
+Property;C_1214_P_46;(not _F13)
+Class;C_1213_PoliceOfficer;(not _F13)
+Region;Cr_9913;_F13
+Property;C_1212_P_45;(not _F13)
+Property;Cr_9912;_F13
+Transition;Cr_9911;_F13
+Property;C_1211_P_44;(not _F13)
+Association;Cr_9910;_F13
+Property;C_1210_P_43;(not _F13)
+Property;C_1209_P_42;(not _F13)
+Comment;Cr_9909;_F13
+Class;C_1208_PoliceCar;(not _F14)
+Class;Cr_9908;_F14
+Property;C_1207_P_41;(not _F14)
+Comment;Cr_9907;_F14
+Comment;Cr_9906;_F14
+Property;C_1206_P_40;(not _F14)
+Class;Cr_9905;_F14
+Class;C_1205_GPS;(not _F14)
+Region;Cr_9904;_F14
+Transition;Cr_9903;_F14
+Class;Cr_9902;_F14
+Property;C_1204_P_39;(not _F14)
+Class;C_1203_GovermentAgency;(not _F15)
+Property;C_1202_P_38;(not _F15)
+Class;Cr_9901;_F15
+Property;C_1201_P_37;(not _F15)
+Property;C_1200_P_36;(not _F15)
+Comment;Cr_9900;_F15
+Property;C_1199_P_35;(not _F15)
+Class;Cr_9899;_F15
+Property;Cr_9898;_F15
+Property;C_1198_P_34;(not _F15)
+Property;C_1197_P_33;(not _F15)
+Class;C_1196_FSCSystem;(not _F15)
+Class;Cr_9897;_F16
+Property;C_1195_P_32;(not _F16)
+Property;C_1194_P_31;(not _F16)
+Region;Cr_9896;_F16
+Property;C_1193_P_30;(not _F16)
+Property;C_1192_P_29;(not _F16)
+Property;C_1191_P_28;(not _F16)
+Class;Cr_9895;_F16
+Class;C_1190_FScoordinator;(not _F16)
+Transition;Cr_9894;_F16
+Property;C_1189_P_27;(not _F16)
+Property;C_1188_P_26;(not _F16)
+Comment;Cr_9893;_F17
+Property;C_1187_P_25;(not _F17)
+Association;Cr_9892;_F17
+Property;C_1186_P_24;(not _F17)
+Association;Cr_9891;_F17
+Class;C_1185_FireTruck;(not _F17)
+Property;C_1184_P_23;(not _F17)
+Property;Cr_9890;_F17
+Property;Cr_9889;_F17
+Transition;Cr_9888;_F17
+Comment;Cr_9887;_F17
+Comment;Cr_9886;_F17
+Association;Cr_9885;_F18
+Class;Cr_9884;_F18
+Property;Cr_9883;_F18
+Property;C_1183_P_22;(not _F18)
+Property;C_1182_P_21;(not _F18)
+Class;C_1181_Fireman;(not _F18)
+Property;Cr_9882;_F18
+Property;C_1180_P_20;(not _F18)
+Association;Cr_9881;_F18
+Transition;Cr_9880;_F18
+Property;C_1179_P_19;(not _F18)
+Class;Cr_9879;_F18
+Comment;Cr_9878;_F19
+Region;Cr_9877;_F19
+Property;Cr_9876;_F19
+Property;C_1178_P_18;(not _F19)
+Association;Cr_9875;_F19
+Association;Cr_9874;_F19
+Property;C_1177_P_17;(not _F19)
+Comment;Cr_9873;_F19
+Property;C_1176_P_16;(not _F19)
+Association;Cr_9872;_F19
+Property;C_1175_P_15;(not _F19)
+Region;Cr_9871;_F19
+Class;Cr_9870;_F20
+Property;Cr_9869;_F20
+Property;C_1174_P_14;(not _F20)
+Transition;Cr_9868;_F20
+Transition;Cr_9867;_F20
+Property;C_1173_P_13;(not _F20)
+Transition;Cr_9866;_F20
+Transition;Cr_9865;_F20
+Property;C_1172_P_12;(not _F20)
+Class;C_1171_Crisis;(not _F20)
+Comment;Cr_9864;_F20
+Property;C_1170_P_11;(not _F20)
+Region;Cr_9863;_F21
+Class;Cr_9862;_F21
+Property;C_1169_P_10;(not _F21)
+Class;Cr_9861;_F21
+Region;Cr_9860;_F21
+Property;C_1168_P_9;(not _F21)
+Region;Cr_9859;_F21
+Class;C_1167_Credential;(not _F21)
+Transition;Cr_9858;_F21
+Property;C_1166_P_8;(not _F21)
+Comment;Cr_9857;_F21
+Comment;Cr_9856;_F21
+Region;Cr_9855;_F22
+Property;C_1165_P_7;(not _F22)
+Property;Cr_9854;_F22
+Class;C_1164_CommunicationInfrastructure;(not _F22)
+Property;C_1163_P_6;(not _F22)
+Class;C_1162_CommunicationCompromiser;(not _F22)
+Property;C_1161_P_5;(not _F22)
+Transition;Cr_9853;_F22
+Comment;Cr_9852;_F22
+Class;Cr_9851;_F22
+Association;Cr_9850;_F22
+Property;C_1160_P_4;(not _F22)
+Class;Cr_9849;_F23
+Association;Cr_9848;_F23
+Property;C_1159_P_3;(not _F23)
+Property;C_1158_P_2;(not _F23)
+Property;C_1157_P_1;(not _F23)
+Class;C_1156_BCMSSystem;(not _F23)
+Region;Cr_9847;_F23
+Region;Cr_9846;_F23
+Region;Cr_9845;_F23
+Association;C_1155_communicationInfrastructure_use_bCMSSystem;(not _F23)
+Association;C_1154_timeoutLog_report_fScoordinator;(not _F23)
+Comment;Cr_9844;_F23
+Association;C_1153_timeoutLog_report_pScoordinator;(not _F24)
+Class;Cr_9843;_F24
+Region;Cr_9842;_F24
+Comment;Cr_9841;_F24
+Region;Cr_9840;_F24
+Association;C_1152_bCMSSystem_regulate_govermentAgency;(not _F24)
+Comment;Cr_9839;_F24
+Association;C_1151_timeoutLog_register_fSCSystem;(not _F24)
+Comment;Cr_9838;_F24
+Region;Cr_9837;_F24
+Transition;Cr_9836;_F24
+Transition;Cr_9835;_F24
+Comment;Cr_9834;_F25
+Association;C_1150_timeoutLog_register_pSCSystem;(not _F25)
+Association;C_1149_routePlan_receive_fSCSystem;(not _F25)
+Association;C_1148_fireTrucks_manage_fScoordinator;(not _F25)
+Association;C_1147_policeCars_manage_pScoordinator;(not _F25)
+Class;Cr_9833;_F25
+Association;C_1146_pScoordinator_interact_pSCSystem;(not _F25)
+Class;Cr_9832;_F25
+Association;C_1145_victims_interact_firemen;(not _F25)
+Class;Cr_9831;_F25
+Association;C_1144_witnesses_interact_policeOfficers;(not _F25)
+Property;Cr_9830;_F25
+Association;Cr_9829;_F26
+Property;Cr_9828;_F26
+Comment;Cr_9827;_F26
+Association;C_1143_policeOfficers_interact_pScoordinator;(not _F26)
+Association;C_1142_witnesses_interact_firemen;(not _F26)
+Class;Cr_9826;_F26
+Association;C_1141_fScoordinator_interact_fSCSystem;(not _F26)
+Transition;Cr_9825;_F26
+Association;C_1140_firemen_interact_fScoordinator;(not _F26)
+Association;C_1139_victims_interact_policeOfficers;(not _F26)
+Association;C_1138_crisis_handle_bCMSSystem;(not _F26)
+Association;Cr_9824;_F26
+Comment;Cr_9823;_F27
+Region;Cr_9822;_F27
+Class;Cr_9821;_F27
+Association;Cr_9820;_F27
+Transition;Cr_9819;_F27
+Association;C_1137_routePoliceCar_follow_policeCar;(not _F27)
+Transition;Cr_9818;_F27
+Association;C_1136_fireTruck_follow_routeFireTruck;(not _F27)
+Transition;Cr_9817;_F27
+Transition;Cr_9816;_F27
+Class;Cr_9815;_F27
+Association;C_1135_routePlans_develop_pSCSystem;(not _F27)
+Property;Cr_9814;_F28
+Comment;Cr_9813;_F28
+Comment;Cr_9812;_F28
+Association;Cr_9811;_F28
+Comment;Cr_9810;_F28
+Association;C_1134_crisis_allocate_fireTrucks;(not _F28)
+Association;C_1133_crisis_allocate_policeCars;(not _F28)
+Transition;Cr_9809;_F28
+Class;Cr_9808;_F28
+Association;Cr_9807;_F28
+Association;C_1132_communicationInfrastructure_access_communicationCompromisers;(not _F28)
+Association;C_1131_routePoliceCars_route_routePlan;(not _F28)
+Association;C_1130_routeFireTrucks_route_routePlan;(not _F29)
+Association;C_1129_bCMSSystem_contain_pSCSystem;(not _F29)
+Comment;Cr_9806;_F29
+Association;C_1128_bCMSSystem_contain_fSCSystem;(not _F29)
+DomainModel;C_1127_Domain;(not _F29)
+Association;Cr_9805;_F29
+Property;C_1126_P_92;(not _F29)
+Property;C_1125_P_91;(not _F29)
+Property;C_1124_P_90;(not _F29)
+Property;C_1123_P_89;(not _F29)
+Class;C_1122_PSCSystem;(not _F29)
+Property;Cr_9804;_F29
+Comment;Cr_9803;_F30
+Property;Cr_9802;_F30
+Property;C_1121_P_88;(not _F30)
+Property;C_1120_P_87;(not _F30)
+Property;C_1119_P_86;(not _F30)
+Property;Cr_9801;_F30
+Class;C_1118_FSCSystem;(not _F30)
+Association;C_1117_fSCSystem_call_pSCSystem;(not _F30)
+Association;C_1116_pSCSystem_call_fSCSystem;(not _F30)
+DomainModel;C_1115_Architecture;(not _F30)
+Class;Cr_9800;_F30
+Property;Cr_9799;_F30
+Generalization;C_1114_G_6;(not _F31)
+Class;C_1113_FSCSystemNoEncryption;(not _F31)
+Transition;Cr_9798;_F31
+Generalization;C_1112_G_5;(not _F31)
+Comment;Cr_9797;_F31
+Transition;Cr_9796;_F31
+Region;Cr_9795;_F31
+Class;Cr_9794;_F31
+Class;Cr_9793;_F31
+Class;Cr_9792;_F31
+Class;C_1111_PSCSystemNoEncryption;(not _F31)
+Comment;Cr_9791;_F31
+Generalization;C_1110_G_4;(not _F32)
+Class;C_1109_FScoordinatorNoEncryption;(not _F32)
+Generalization;C_1108_G_3;(not _F32)
+Association;Cr_9790;_F32
+Class;C_1107_PScoordinatorNoEncryption;(not _F32)
+Transition;Cr_9789;_F32
+Property;C_1106_P_85;(not _F32)
+Property;C_1105_P_84;(not _F32)
+Region;Cr_9788;_F32
+Class;Cr_9787;_F32
+Region;Cr_9786;_F32
+Transition;Cr_9785;_F32
+Region;Cr_9784;_F33
+Property;Cr_9783;_F33
+Transition;Cr_9782;_F33
+Association;Cr_9781;_F33
+Class;C_1104_Witness;(not _F33)
+Property;C_1103_P_83;(not _F33)
+Association;Cr_9780;_F33
+Comment;Cr_9779;_F33
+Property;C_1102_P_82;(not _F33)
+Class;C_1101_Victim;(not _F33)
+Property;C_1100_P_81;(not _F33)
+Transition;Cr_9778;_F33
+Association;Cr_9777;_F34
+Class;Cr_9776;_F34
+Class;Cr_9775;_F34
+Transition;Cr_9774;_F34
+Comment;Cr_9773;_F34
+Region;Cr_9772;_F34
+Property;C_1099_P_80;(not _F34)
+Class;Cr_9771;_F34
+Property;C_1098_P_79;(not _F34)
+Comment;Cr_9770;_F34
+Property;C_1097_P_78;(not _F34)
+Class;Cr_9769;_F34
+Property;C_1096_P_77;(not _F35)
+Property;C_1095_P_76;(not _F35)
+Property;C_1094_P_75;(not _F35)
+Transition;Cr_9768;_F35
+Association;Cr_9767;_F35
+Comment;Cr_9766;_F35
+Property;C_1093_P_74;(not _F35)
+Transition;Cr_9765;_F35
+Comment;Cr_9764;_F35
+Region;Cr_9763;_F35
+Class;C_1092_TimeoutLog;(not _F35)
+Property;Cr_9762;_F35
+Property;Cr_9761;_F36
+Class;Cr_9760;_F36
+Comment;Cr_9759;_F36
+Comment;Cr_9758;_F36
+Generalization;C_1091_G_2;(not _F36)
+Transition;Cr_9757;_F36
+Property;C_1090_P_73;(not _F36)
+Class;Cr_9756;_F36
+Association;Cr_9755;_F36
+Property;C_1089_P_72;(not _F36)
+Comment;Cr_9754;_F36
+Transition;Cr_9753;_F36
+Class;C_1088_RoutePoliceCar;(not _F37)
+Property;C_1087_P_71;(not _F37)
+Property;C_1086_P_70;(not _F37)
+Comment;Cr_9752;_F37
+Transition;Cr_9751;_F37
+Comment;Cr_9750;_F37
+Property;Cr_9749;_F37
+Comment;Cr_9748;_F37
+Association;Cr_9747;_F37
+Transition;Cr_9746;_F37
+Property;C_1085_P_69;(not _F37)
+Property;C_1084_P_68;(not _F37)
+Comment;Cr_9745;_F38
+Property;C_1083_P_67;(not _F38)
+Property;C_1082_P_66;(not _F38)
+Property;C_1081_P_65;(not _F38)
+Class;C_1080_RoutePlan;(not _F38)
+Generalization;C_1079_G_1;(not _F38)
+Comment;Cr_9744;_F38
+Class;Cr_9743;_F38
+Comment;Cr_9742;_F38
+Property;C_1078_P_64;(not _F38)
+Association;Cr_9741;_F38
+Class;Cr_9740;_F38
+Association;Cr_9739;_F39
+Association;Cr_9738;_F39
+Property;Cr_9737;_F39
+Transition;Cr_9736;_F39
+Property;C_1077_P_63;(not _F39)
+Class;C_1076_RouteFireTruck;(not _F39)
+Property;C_1075_P_62;(not _F39)
+Property;C_1074_P_61;(not _F39)
+Class;C_1073_Route;(not _F39)
+Association;Cr_9735;_F39
+Region;Cr_9734;_F39
+Region;Cr_9733;_F39
+Class;Cr_9732;_F40
+Property;C_1072_P_60;(not _F40)
+Association;Cr_9731;_F40
+Transition;Cr_9730;_F40
+Comment;Cr_9729;_F40
+Class;Cr_9728;_F40
+Property;C_1071_P_59;(not _F40)
+Property;Cr_9727;_F40
+Property;C_1070_P_58;(not _F40)
+Property;C_1069_P_57;(not _F40)
+Comment;Cr_9726;_F40
+Property;C_1068_P_56;(not _F40)
+Region;Cr_9725;_F41
+Transition;Cr_9724;_F41
+Association;Cr_9723;_F41
+Property;C_1067_P_55;(not _F41)
+Class;Cr_9722;_F41
+Property;C_1066_P_54;(not _F41)
+Class;C_1065_PSCSystem;(not _F41)
+Property;C_1064_P_53;(not _F41)
+Property;Cr_9721;_F41
+Transition;Cr_9720;_F41
+Property;C_1063_P_52;(not _F41)
+Association;Cr_9719;_F41
+Property;C_1062_P_51;(not _F42)
+Property;C_1061_P_50;(not _F42)
+Region;Cr_9718;_F42
+Property;C_1060_P_49;(not _F42)
+Class;C_1059_PScoordinator;(not _F42)
+Property;C_1058_P_48;(not _F42)
+Region;Cr_9717;_F42
+Property;Cr_9716;_F42
+Property;C_1057_P_47;(not _F42)
+Property;C_1056_P_46;(not _F42)
+Class;C_1055_PoliceOfficer;(not _F42)
+Property;Cr_9715;_F42
+Property;C_1054_P_45;(not _F43)
+Property;C_1053_P_44;(not _F43)
+Class;Cr_9714;_F43
+Property;C_1052_P_43;(not _F43)
+Property;C_1051_P_42;(not _F43)
+Class;C_1050_PoliceCar;(not _F43)
+Region;Cr_9713;_F43
+Association;Cr_9712;_F43
+Property;C_1049_P_41;(not _F43)
+Property;C_1048_P_40;(not _F43)
+Comment;Cr_9711;_F43
+Property;Cr_9710;_F43
+Class;C_1047_GPS;(not _F44)
+Property;C_1046_P_39;(not _F44)
+Class;C_1045_GovermentAgency;(not _F44)
+Property;C_1044_P_38;(not _F44)
+Property;C_1043_P_37;(not _F44)
+Property;C_1042_P_36;(not _F44)
+Region;Cr_9709;_F44
+Property;C_1041_P_35;(not _F44)
+Property;C_1040_P_34;(not _F44)
+Region;Cr_9708;_F44
+Property;C_1039_P_33;(not _F44)
+Class;C_1038_FSCSystem;(not _F44)
+Transition;Cr_9707;_F45
+Property;C_1037_P_32;(not _F45)
+Property;C_1036_P_31;(not _F45)
+Property;C_1035_P_30;(not _F45)
+Association;Cr_9706;_F45
+Property;C_1034_P_29;(not _F45)
+Region;Cr_9705;_F45
+Comment;Cr_9704;_F45
+Property;C_1033_P_28;(not _F45)
+Class;C_1032_FScoordinator;(not _F45)
+Association;Cr_9703;_F45
+Class;Cr_9702;_F45
+Property;C_1031_P_27;(not _F46)
+Property;C_1030_P_26;(not _F46)
+Region;Cr_9701;_F46
+Property;C_1029_P_25;(not _F46)
+Property;C_1028_P_24;(not _F46)
+Region;Cr_9700;_F46
+Transition;Cr_9699;_F46
+Class;C_1027_FireTruck;(not _F46)
+Region;Cr_9698;_F46
+Transition;Cr_9697;_F46
+Property;C_1026_P_23;(not _F46)
+Property;C_1025_P_22;(not _F46)
+Region;Cr_9696;_F47
+Property;C_1024_P_21;(not _F47)
+Class;C_1023_Fireman;(not _F47)
+Transition;Cr_9695;_F47
+Comment;Cr_9694;_F47
+Property;C_1022_P_20;(not _F47)
+Property;C_1021_P_19;(not _F47)
+Property;C_1020_P_18;(not _F47)
+Property;C_1019_P_17;(not _F47)
+Property;C_1018_P_16;(not _F47)
+Region;Cr_9693;_F47
+Association;Cr_9692;_F47
+Property;C_1017_P_15;(not _F48)
+Region;Cr_9691;_F48
+Property;C_1016_P_14;(not _F48)
+Region;Cr_9690;_F48
+Property;Cr_9689;_F48
+Property;C_1015_P_13;(not _F48)
+Association;Cr_9688;_F48
+Property;C_1014_P_12;(not _F48)
+Class;C_1013_Crisis;(not _F48)
+Comment;Cr_9687;_F48
+Property;Cr_9686;_F48
+Property;C_1012_P_11;(not _F48)
+Property;Cr_9685;_F49
+Association;Cr_9684;_F49
+Association;Cr_9683;_F49
+Property;C_1011_P_10;(not _F49)
+Property;C_1010_P_9;(not _F49)
+Class;C_1009_Credential;(not _F49)
+Class;Cr_9682;_F49
+Comment;Cr_9681;_F49
+Transition;Cr_9680;_F49
+Transition;Cr_9679;_F49
+Property;C_1008_P_8;(not _F49)
+Transition;Cr_9678;_F49
+Transition;Cr_9677;_F50
+Region;Cr_9676;_F50
+Region;Cr_9675;_F50
+Property;C_1007_P_7;(not _F50)
+Region;Cr_9674;_F50
+Association;Cr_9673;_F50
+Class;C_1006_CommunicationInfrastructure;(not _F50)
+Association;Cr_9672;_F50
+Property;C_1005_P_6;(not _F50)
+Region;Cr_9671;_F50
+Transition;Cr_9670;_F50
+Transition;Cr_9669;_F50
+Region;Cr_9668;_F51
+Class;C_1004_CommunicationCompromiser;(not _F51)
+Region;Cr_9667;_F51
+Property;C_1003_P_5;(not _F51)
+Property;C_1002_P_4;(not _F51)
+Property;C_1001_P_3;(not _F51)
+Property;C_1000_P_2;(not _F51)
+Property;C_999_P_1;(not _F51)
+Class;C_998_BCMSSystem;(not _F51)
+Association;C_997_communicationInfrastructure_use_bCMSSystem;(not _F51)
+Association;C_996_timeoutLog_report_fScoordinator;(not _F51)
+Property;Cr_9666;_F51
+Association;C_995_timeoutLog_report_pScoordinator;(not _F52)
+Comment;Cr_9665;_F52
+Class;Cr_9664;_F52
+Association;C_994_bCMSSystem_regulate_govermentAgency;(not _F52)
+Transition;Cr_9663;_F52
+Region;Cr_9662;_F52
+Association;C_993_timeoutLog_register_fSCSystem;(not _F52)
+Association;C_992_timeoutLog_register_pSCSystem;(not _F52)
+Association;C_991_routePlan_receive_fSCSystem;(not _F52)
+Association;Cr_9661;_F52
+Association;C_990_fireTrucks_manage_fScoordinator;(not _F52)
+Class;Cr_9660;_F52
+Association;C_989_policeCars_manage_pScoordinator;(not _F53)
+Association;C_988_pScoordinator_interact_pSCSystem;(not _F53)
+Class;Cr_9659;_F53
+Association;C_987_victims_interact_firemen;(not _F53)
+Class;Cr_9658;_F53
+Association;C_986_witnesses_interact_policeOfficers;(not _F53)
+Association;Cr_9657;_F53
+Property;Cr_9656;_F53
+Association;C_985_policeOfficers_interact_pScoordinator;(not _F53)
+Association;C_984_witnesses_interact_firemen;(not _F53)
+Association;C_983_fScoordinator_interact_fSCSystem;(not _F53)
+Association;Cr_9655;_F53
+Association;Cr_9654;_F54
+Association;C_982_firemen_interact_fScoordinator;(not _F54)
+Association;Cr_9653;_F54
+Comment;Cr_9652;_F54
+Association;C_981_victims_interact_policeOfficers;(not _F54)
+Association;C_980_crisis_handle_bCMSSystem;(not _F54)
+Property;Cr_9651;_F54
+Region;Cr_9650;_F54
+Transition;Cr_9649;_F54
+Association;C_979_routePoliceCar_follow_policeCar;(not _F54)
+Association;C_978_fireTruck_follow_routeFireTruck;(not _F54)
+Class;Cr_9648;_F54
+Transition;Cr_9647;_F55
+Comment;Cr_9646;_F55
+Comment;Cr_9645;_F55
+Class;Cr_9644;_F55
+Association;C_977_routePlans_develop_pSCSystem;(not _F55)
+Association;C_976_crisis_allocate_fireTrucks;(not _F55)
+Region;Cr_9643;_F55
+Region;Cr_9642;_F55
+Association;C_975_crisis_allocate_policeCars;(not _F55)
+Association;C_974_communicationInfrastructure_access_communicationCompromisers;(not _F55)
+Association;C_973_routePoliceCars_route_routePlan;(not _F55)
+Comment;Cr_9641;_F55
+Association;C_972_routeFireTrucks_route_routePlan;(not _F56)
+Region;Cr_9640;_F56
+Association;C_971_bCMSSystem_contain_pSCSystem;(not _F56)
+Association;C_970_bCMSSystem_contain_fSCSystem;(not _F56)
+DomainModel;C_969_Domain;(not _F56)
+Comment;Cr_9639;_F56
+Property;C_968_P_92;(not _F56)
+Region;Cr_9638;_F56
+Property;Cr_9637;_F56
+Property;C_967_P_91;(not _F56)
+Property;C_966_P_90;(not _F56)
+Region;Cr_9636;_F56
+Property;C_965_P_89;(not _F57)
+Class;C_964_PSCSystem;(not _F57)
+Property;C_963_P_88;(not _F57)
+Property;C_962_P_87;(not _F57)
+Region;Cr_9635;_F57
+Property;C_961_P_86;(not _F57)
+Association;Cr_9634;_F57
+Region;Cr_9633;_F57
+Class;C_960_FSCSystem;(not _F57)
+Association;C_959_fSCSystem_call_pSCSystem;(not _F57)
+Association;Cr_9632;_F57
+Region;Cr_9631;_F57
+Association;Cr_9630;_F58
+Class;Cr_9629;_F58
+Association;C_958_pSCSystem_call_fSCSystem;(not _F58)
+DomainModel;C_957_Architecture;(not _F58)
+Generalization;C_956_G_6;(not _F58)
+Class;C_955_FSCSystemNoEncryption;(not _F58)
+Generalization;C_954_G_5;(not _F58)
+Property;Cr_9628;_F58
+Region;Cr_9627;_F58
+Class;C_953_PSCSystemNoEncryption;(not _F58)
+Comment;Cr_9626;_F58
+Generalization;C_952_G_4;(not _F58)
+Comment;Cr_9625;_F59
+Class;C_951_FScoordinatorNoEncryption;(not _F59)
+Generalization;C_950_G_3;(not _F59)
+Class;C_949_PScoordinatorNoEncryption;(not _F59)
+Transition;Cr_9624;_F59
+Property;C_948_P_85;(not _F59)
+Property;C_947_P_84;(not _F59)
+Comment;Cr_9623;_F59
+Class;C_946_Witness;(not _F59)
+Comment;Cr_9622;_F59
+Property;C_945_P_83;(not _F59)
+Property;C_944_P_82;(not _F59)
+Comment;Cr_9621;_F60
+Class;C_943_Victim;(not _F60)
+Class;Cr_9620;_F60
+Property;C_942_P_81;(not _F60)
+Property;C_941_P_80;(not _F60)
+Class;Cr_9619;_F60
+Property;C_940_P_79;(not _F60)
+Property;C_939_P_78;(not _F60)
+Property;C_938_P_77;(not _F60)
+Class;Cr_9618;_F60
+Property;C_937_P_76;(not _F60)
+Property;Cr_9617;_F60
+Property;Cr_9616;_F61
+Transition;Cr_9615;_F61
+Property;C_936_P_75;(not _F61)
+Comment;Cr_9614;_F61
+Association;Cr_9613;_F61
+Class;Cr_9612;_F61
+Class;Cr_9611;_F61
+Property;C_935_P_74;(not _F61)
+Property;Cr_9610;_F61
+Class;C_934_TimeoutLog;(not _F61)
+Association;Cr_9609;_F61
+Generalization;C_933_G_2;(not _F61)
+Property;C_932_P_73;(not _F62)
+Property;C_931_P_72;(not _F62)
+Class;C_930_RoutePoliceCar;(not _F62)
+Property;Cr_9608;_F62
+Property;C_929_P_71;(not _F62)
+Property;C_928_P_70;(not _F62)
+Association;Cr_9607;_F62
+Association;Cr_9606;_F62
+Property;C_927_P_69;(not _F62)
+Property;C_926_P_68;(not _F62)
+Property;C_925_P_67;(not _F62)
+Property;C_924_P_66;(not _F62)
+Property;Cr_9605;_F63
+Property;Cr_9604;_F63
+Comment;Cr_9603;_F63
+Property;C_923_P_65;(not _F63)
+Property;Cr_9602;_F63
+Transition;Cr_9601;_F63
+Class;C_922_RoutePlan;(not _F63)
+Generalization;C_921_G_1;(not _F63)
+Property;C_920_P_64;(not _F63)
+Region;Cr_9600;_F63
+Property;C_919_P_63;(not _F63)
+Transition;Cr_9599;_F63
+Class;C_918_RouteFireTruck;(not _F64)
+Class;Cr_9598;_F64
+Association;Cr_9597;_F64
+Association;Cr_9596;_F64
+Property;Cr_9595;_F64
+Property;C_917_P_62;(not _F64)
+Class;Cr_9594;_F64
+Property;C_916_P_61;(not _F64)
+Class;C_915_Route;(not _F64)
+Comment;Cr_9593;_F64
+Property;Cr_9592;_F64
+Property;C_914_P_60;(not _F64)
+Property;Cr_9591;_F65
+Property;C_913_P_59;(not _F65)
+Comment;Cr_9590;_F65
+Class;Cr_9589;_F65
+Property;C_912_P_58;(not _F65)
+Class;Cr_9588;_F65
+Comment;Cr_9587;_F65
+Property;C_911_P_57;(not _F65)
+Comment;Cr_9586;_F65
+Comment;Cr_9585;_F65
+Transition;Cr_9584;_F65
+Property;C_910_P_56;(not _F65)
+Property;C_909_P_55;(not _F66)
+Property;C_908_P_54;(not _F66)
+Class;Cr_9583;_F66
+Property;Cr_9582;_F66
+Comment;Cr_9581;_F66
+Class;C_907_PSCSystem;(not _F66)
+Property;Cr_9580;_F66
+Comment;Cr_9579;_F66
+Region;Cr_9578;_F66
+Property;C_906_P_53;(not _F66)
+Property;C_905_P_52;(not _F66)
+Property;C_904_P_51;(not _F66)
+Comment;Cr_9577;_F67
+Property;C_903_P_50;(not _F67)
+Property;Cr_9576;_F67
+Property;C_902_P_49;(not _F67)
+Property;Cr_9575;_F67
+Class;C_901_PScoordinator;(not _F67)
+Property;C_900_P_48;(not _F67)
+Class;Cr_9574;_F67
+Property;C_899_P_47;(not _F67)
+Class;Cr_9573;_F67
+Comment;Cr_9572;_F67
+Comment;Cr_9571;_F67
+Property;C_898_P_46;(not _F68)
+Class;Cr_9570;_F68
+Region;Cr_9569;_F68
+Transition;Cr_9568;_F68
+Class;C_897_PoliceOfficer;(not _F68)
+Region;Cr_9567;_F68
+Property;Cr_9566;_F68
+Property;C_896_P_45;(not _F68)
+Property;C_895_P_44;(not _F68)
+Property;C_894_P_43;(not _F68)
+Transition;Cr_9565;_F68
+Comment;Cr_9564;_F68
+Property;C_893_P_42;(not _F69)
+Region;Cr_9563;_F69
+Transition;Cr_9562;_F69
+Association;Cr_9561;_F69
+Class;C_892_PoliceCar;(not _F69)
+Association;Cr_9560;_F69
+Class;Cr_9559;_F69
+Property;C_891_P_41;(not _F69)
+Comment;Cr_9558;_F69
+Property;C_890_P_40;(not _F69)
+Transition;Cr_9557;_F69
+Class;Cr_9556;_F69
+Class;C_889_GPS;(not _F70)
+Comment;Cr_9555;_F70
+Property;C_888_P_39;(not _F70)
+Class;C_887_GovermentAgency;(not _F70)
+Transition;Cr_9554;_F70
+Property;Cr_9553;_F70
+Comment;Cr_9552;_F70
+Property;C_886_P_38;(not _F70)
+Property;C_885_P_37;(not _F70)
+Transition;Cr_9551;_F70
+Property;C_884_P_36;(not _F70)
+Property;C_883_P_35;(not _F70)
+Property;C_882_P_34;(not _F71)
+Class;Cr_9550;_F71
+Property;Cr_9549;_F71
+Property;C_881_P_33;(not _F71)
+Class;C_880_FSCSystem;(not _F71)
+Property;C_879_P_32;(not _F71)
+Property;C_878_P_31;(not _F71)
+Region;Cr_9548;_F71
+Property;C_877_P_30;(not _F71)
+Region;Cr_9547;_F71
+Property;C_876_P_29;(not _F71)
+Association;Cr_9546;_F71
+Association;Cr_9545;_F72
+Property;C_875_P_28;(not _F72)
+Association;Cr_9544;_F72
+Comment;Cr_9543;_F72
+Class;C_874_FScoordinator;(not _F72)
+Transition;Cr_9542;_F72
+Property;C_873_P_27;(not _F72)
+Association;Cr_9541;_F72
+Transition;Cr_9540;_F72
+Property;C_872_P_26;(not _F72)
+Transition;Cr_9539;_F72
+Property;C_871_P_25;(not _F72)
+Class;Cr_9538;_F73
+Region;Cr_9537;_F73
+Class;Cr_9536;_F73
+Property;C_870_P_24;(not _F73)
+Class;C_869_FireTruck;(not _F73)
+Property;C_868_P_23;(not _F73)
+Class;Cr_9535;_F73
+Property;C_867_P_22;(not _F73)
+Property;C_866_P_21;(not _F73)
+Class;C_865_Fireman;(not _F73)
+Property;C_864_P_20;(not _F73)
+Property;C_863_P_19;(not _F73)
+Property;C_862_P_18;(not _F74)
+Property;Cr_9534;_F74
+Property;C_861_P_17;(not _F74)
+Property;C_860_P_16;(not _F74)
+Property;C_859_P_15;(not _F74)
+Property;C_858_P_14;(not _F74)
+Class;Cr_9533;_F74
+Property;C_857_P_13;(not _F74)
+Property;Cr_9532;_F74
+Property;C_856_P_12;(not _F74)
+Class;Cr_9531;_F74
+Class;C_855_Crisis;(not _F74)
+Property;C_854_P_11;(not _F75)
+Comment;Cr_9530;_F75
+Association;Cr_9529;_F75
+Property;C_853_P_10;(not _F75)
+Property;C_852_P_9;(not _F75)
+Class;C_851_Credential;(not _F75)
+Association;Cr_9528;_F75
+Property;C_850_P_8;(not _F75)
+Property;C_849_P_7;(not _F75)
+Property;Cr_9527;_F75
+Class;C_848_CommunicationInfrastructure;(not _F75)
+Property;C_847_P_6;(not _F75)
+Region;Cr_9526;_F76
+Association;Cr_9525;_F76
+Class;C_846_CommunicationCompromiser;(not _F76)
+Property;C_845_P_5;(not _F76)
+Property;C_844_P_4;(not _F76)
+Region;Cr_9524;_F76
+Region;Cr_9523;_F76
+Property;C_843_P_3;(not _F76)
+Comment;Cr_9522;_F76
+Property;C_842_P_2;(not _F76)
+Property;C_841_P_1;(not _F76)
+Class;C_840_BCMSSystem;(not _F76)
+Association;C_839_communicationInfrastructure_use_bCMSSystem;(not _F77)
+Association;C_838_timeoutLog_report_fScoordinator;(not _F77)
+Association;C_837_timeoutLog_report_pScoordinator;(not _F77)
+Property;Cr_9521;_F77
+Class;Cr_9520;_F77
+Class;Cr_9519;_F77
+Association;C_836_bCMSSystem_regulate_govermentAgency;(not _F77)
+Region;Cr_9518;_F77
+Association;C_835_timeoutLog_register_fSCSystem;(not _F77)
+Association;C_834_timeoutLog_register_pSCSystem;(not _F77)
+Region;Cr_9517;_F77
+Association;C_833_routePlan_receive_fSCSystem;(not _F77)
+Association;C_832_fireTrucks_manage_fScoordinator;(not _F78)
+Association;C_831_policeCars_manage_pScoordinator;(not _F78)
+Class;Cr_9516;_F78
+Transition;Cr_9515;_F78
+Association;C_830_pScoordinator_interact_pSCSystem;(not _F78)
+Association;C_829_victims_interact_firemen;(not _F78)
+Region;Cr_9514;_F78
+Transition;Cr_9513;_F78
+Association;C_828_witnesses_interact_policeOfficers;(not _F78)
+Association;C_827_policeOfficers_interact_pScoordinator;(not _F78)
+Class;Cr_9512;_F78
+Association;C_826_witnesses_interact_firemen;(not _F78)
+Association;C_825_fScoordinator_interact_fSCSystem;(not _F79)
+Class;Cr_9511;_F79
+Transition;Cr_9510;_F79
+Comment;Cr_9509;_F79
+Region;Cr_9508;_F79
+Association;C_824_firemen_interact_fScoordinator;(not _F79)
+Association;C_823_victims_interact_policeOfficers;(not _F79)
+Association;C_822_crisis_handle_bCMSSystem;(not _F79)
+Association;C_821_routePoliceCar_follow_policeCar;(not _F79)
+Association;Cr_9507;_F79
+Association;Cr_9506;_F79
+Transition;Cr_9505;_F79

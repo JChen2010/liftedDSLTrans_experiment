@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/com.microsoft.z3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/diffutils-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jpl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/lib/swipl-5.10.1/lib/x86_64-linux"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/DSLTransEditor2.0.diagram_1.0.0.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/DSLTransEditor2.0.edit_1.0.0.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/DSLTransEditor2.0.editor_1.0.0.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/DSLTransEditor2.0_1.0.0.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/DSLTranslator_1.0.2.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/Transformer2.0_1.0.2.201704302229.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.core.jobs_3.7.0.v20150330-2103.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.core.resources_3.10.1.v20150725-1910.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.debug.core_3.10.0.v20150303-1130.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.emf.codegen.ecore_2.11.1.v20160208-0841.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.emf.codegen_2.11.0.v20160208-0841.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.emf.common_2.11.1.v20160208-0816.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.emf.ecore.xmi_2.11.1.v20160208-0816.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.emf.ecore_2.11.2.v20160208-0816.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.jdt.core_3.11.2.v20160128-0629.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.osgi_3.10.102.v20160118-1700.jar"/>
+	<classpathentry kind="lib" path="/mnt/c/Personal/Work/CSC494/liftedEclipse/eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

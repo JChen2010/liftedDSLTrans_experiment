@@ -1,0 +1,6 @@
+(xor _H1 _H2)
+rootElement,rootElem,true
+VirtualDevice,HumanMachineInterface,(and true _H1)
+VirtualDevice,HumanMachineInterface2,(and (and true _H2) (not (and true)))
+VirtualDevice,rootElement,rootElem,VirtualDevice,HumanMachineInterface,(and true _H1)
+VirtualDevice,rootElement,rootElem,VirtualDevice,HumanMachineInterface2,(and (and true _H2) (not (and true)))

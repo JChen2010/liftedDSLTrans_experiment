@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ASCII"?>
+<hierarchy:HierLibrary
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:hierarchy="http://hierarchy/2.0"
+    xsi:schemaLocation="http://hierarchy/2.0 hierlibrary.ecore"
+    Name="L1">
+  <fiction Name="F1">
+    <members
+        Name="Gone with the Wind"
+        genre="Romance"/>
+    <members
+        Name="Lord of the Rings"
+        genre="Fantasy"/>
+    <members
+        Name="Game of Thrones"
+        genre="Fantasy"/>
+  </fiction>
+  <nonfiction
+      Name="NF1">
+    <members
+        Name="Introduction to Algorithms"
+        genre="Computer Science"/>
+    <members
+        Name="Lincoln"
+        genre="Biography"/>
+  </nonfiction>
+</hierarchy:HierLibrary>

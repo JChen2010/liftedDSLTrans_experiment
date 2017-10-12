@@ -1,0 +1,20 @@
+(xor _NF _F)
+NonFiction;NF1;_NF
+Fiction;F1;_F
+Book;Gone with the Wind;_F
+Book;Lord of the Rings;_F
+Book;Game of Thrones;_F
+Book;Lincoln;_NF
+Book;Introduction to Algorithms;_NF
+fiction;Library;L1;Fiction;F1;_F
+nonfiction;Library;L1;NonFiction;F1;_NF
+books;Library;L1;Book;Gone with the Wind;_F
+books;Library;L1;Book;Lord of the Ring;_F
+books;Library;L1;Book;Game of Thrones;_F
+books;Library;L1;Book;Lincoln;_NF
+books;Library;L1;Book;Introduction to Algorithms;_NF
+members;Fiction;F1;Book;Gone with the Wind;_F
+members;Fiction;F1;Book;Lord of the Rings;_F
+members;Fiction;F1;Book;Game of Thrones;_F
+members;NonFiction;NF1;Book;Lincoln;_NF
+members;NonFiction;NF1;Book;Introduction to Algorithms;_NF

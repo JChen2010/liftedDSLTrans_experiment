@@ -1,0 +1,10 @@
+Transformation: Delete, delete_Class_from_Domain
+Product Line: PL_x1_20_11
+Runtime: 9.905994s
+CV Ratio: 82.5909090909091
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x5_80_15
+Runtime: 8.843807s
+CV Ratio: 82.5909090909091
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<test:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:test="http://test/144.0" xsi:schemaLocation="http://test/144.0 myuml_test.ecore" Name="bCMS">
+  <classes Name="Class1"/>
+  <classes Name="Class2">
+    <properties Name="Prop1"/>
+    <general Name="Gen1"/>
+  </classes>
+  <models Name="Domain">
+    <dclasses Name="Class3"/>
+  </models>
+  <models Name="Architecture"/>
+</test:Model>

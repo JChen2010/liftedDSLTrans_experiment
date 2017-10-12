@@ -1,0 +1,6 @@
+(xor _A _B)
+rootElement,rootElem,true
+System,Frame2,null
+System,Frame1,null
+System,rootElement,rootElem,System,Frame2,null
+System,rootElement,rootElem,System,Frame1,null

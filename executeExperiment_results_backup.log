@@ -1,0 +1,290 @@
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9s
+CV Ratio: 77.68181818181819
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_12
+Runtime: 7s
+CV Ratio: 78.4090909090909
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_13
+Runtime: 8s
+CV Ratio: 79.5
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_14
+Runtime: 6s
+CV Ratio: 81.5
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_15
+Runtime: 6s
+CV Ratio: 83.31818181818181
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_11
+Runtime: 11s
+CV Ratio: 50.69047619047619
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_12
+Runtime: 11s
+CV Ratio: 53.642857142857146
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_13
+Runtime: 10s
+CV Ratio: 53.73809523809524
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_14
+Runtime: 11s
+CV Ratio: 57.54761904761905
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_15
+Runtime: 18s
+CV Ratio: 58.595238095238095
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_11
+Runtime: 18s
+CV Ratio: 41.95161290322581
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_12
+Runtime: 14s
+CV Ratio: 45.82258064516129
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_13
+Runtime: 16s
+CV Ratio: 49.37096774193548
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_14
+Runtime: 15s
+CV Ratio: 53.5
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_60_15
+Runtime: 19s
+CV Ratio: 57.5
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_11
+Runtime: 20s
+CV Ratio: 42.451219512195124
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_12
+Runtime: 20s
+CV Ratio: 46.25609756097561
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_13
+Runtime: 29.622476s
+CV Ratio: 50.30487804878049
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_14
+Runtime: 26.738988s
+CV Ratio: 54.25609756097561
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_80_15
+Runtime: 25.390224s
+CV Ratio: 58.0609756097561
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_100_11
+Runtime: 26.115797s
+CV Ratio: 42.71568627450981
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_100_12
+Runtime: 29.228784s
+CV Ratio: 46.71568627450981
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_100_13
+Runtime: 32.1143s
+CV Ratio: 50.245098039215684
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_100_14
+Runtime: 36.631059s
+CV Ratio: 54.28431372549019
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_100_15
+Runtime: 41.793603s
+CV Ratio: 54.71568627450981
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_11
+Runtime: 15.141645s
+CV Ratio: 134.95454545454547
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_12
+Runtime: 15.225572s
+CV Ratio: 137.3181818181818
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_13
+Runtime: 12.948932s
+CV Ratio: 135.86363636363637
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_14
+Runtime: 13.111426s
+CV Ratio: 138.4090909090909
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_20_15
+Runtime: 16.788284s
+CV Ratio: 142.22727272727272
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_11
+Runtime: 17.383452s
+CV Ratio: 78.97619047619048
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_12
+Runtime: 17.56462s
+CV Ratio: 82.5952380952381
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_13
+Runtime: 15.682862s
+CV Ratio: 85.35714285714286
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_14
+Runtime: 19.936628s
+CV Ratio: 85.83333333333333
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_40_15
+Runtime: 20.397894s
+CV Ratio: 90.4047619047619
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x2_100_15
+Runtime: 41.203832s
+CV Ratio: 58.205882352941174
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x3_100_15
+Runtime: 61.786732s
+CV Ratio: 78.12745098039215
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x4_100_15
+Runtime: 65.819349s
+CV Ratio: 78.00980392156863
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x4_100_15
+Runtime: 143.709032s
+CV Ratio: 127.1470588235294
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_40_12
+Runtime: 12.07326s
+CV Ratio: 0.047619047619047616
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.918072s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.787373s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.977857s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.16975s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.853733s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.186898s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.719114s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.748522s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.167296s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.860135s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.260571s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.723456s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.088433s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.989033s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.76777s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.163833s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 8.914769s
+CV Ratio: 154.6818181818182
+
+Transformation: Delete, delete_COMMENT_from_MODEL
+Product Line: PL_x1_20_11
+Runtime: 9.009966s
+CV Ratio: 82.5909090909091
+

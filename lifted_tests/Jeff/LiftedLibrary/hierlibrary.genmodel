@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/LiftedLibrary/src"
+    modelPluginID="LiftedLibrary" modelName="Hierlibrary" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="6.0" copyrightFields="false">
+  <foreignModel>hierlibrary.ecore</foreignModel>
+  <genPackages prefix="Hierarchy" disposableProviderFactory="true" ecorePackage="hierlibrary.ecore#/">
+    <genClasses ecoreClass="hierlibrary.ecore#//HierLibrary">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference hierlibrary.ecore#//HierLibrary/fiction"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference hierlibrary.ecore#//HierLibrary/nonfiction"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute hierlibrary.ecore#//HierLibrary/Name"/>
+    </genClasses>
+    <genClasses ecoreClass="hierlibrary.ecore#//Fiction">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference hierlibrary.ecore#//Fiction/members"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute hierlibrary.ecore#//Fiction/Name"/>
+    </genClasses>
+    <genClasses ecoreClass="hierlibrary.ecore#//NonFiction">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference hierlibrary.ecore#//NonFiction/members"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute hierlibrary.ecore#//NonFiction/Name"/>
+    </genClasses>
+    <genClasses ecoreClass="hierlibrary.ecore#//Book">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute hierlibrary.ecore#//Book/Name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute hierlibrary.ecore#//Book/genre"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

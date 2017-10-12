@@ -1,0 +1,4 @@
+(xor _H1 _H2 _D1)
+VirtualDevice;HumanMachineInterface;_H1
+VirtualDevice;HumanMachineInterface2;_H2
+Distributable;Display1;_D1

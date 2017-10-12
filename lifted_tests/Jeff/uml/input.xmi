@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ASCII"?>
+<test:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:test="http://test/144.0" Name="bCMS">
+  <statemachines Name="SM1">
+    <regions Name="R1">
+      <states xsi:type="test:State" Name="S1"/>
+      <states xsi:type="test:Pseudostate" Name="PS1"/>
+      <transitions Name="T1"/>
+    </regions>
+  </statemachines>
+  <classes Name="Class1">
+    <properties Name="Prop1"/>
+  </classes>
+  <classes Name="Class2">
+    <properties Name="Cr41"/>
+  </classes>
+  <models Name="Domain">
+    <dclasses Name="Cr25"/>
+    <dclasses Name="Cr26"/>
+    <dclasses Name="Cr29"/>
+    <dclasses Name="Cr31"/>
+    <dclasses Name="Cr32"/>
+    <dclasses Name="Cr33"/>
+    <dclasses Name="Cr34"/>
+    <dclasses Name="Cr38"/>
+    <dclasses Name="Cr39"/>
+    <dclasses Name="Cr40"/>
+    <dclasses Name="Class3">
+      <general Name="General1"/>
+    </dclasses>
+    <dcomments body="" Name="Comment1"/>
+  </models>
+  <models Name="Architecture"/>
+</test:Model>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ASCII" standalone="no"?>
+<dst:Model xmlns:dst="http://dst/157.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" shortName="bCMS" xmi:version="2.0" xsi:schemaLocation="http://dst/157.0 myuml_dst.ecore">
+  <statemachines shortName="SM1"/>
+  <statemachines shortName="SM1">
+    <regions shortName="R1"/>
+  </statemachines>
+  <classes shortName="Class1"/>
+  <classes shortName="Class2"/>
+  <classes shortName="Class3">
+    <general shortName="General1"/>
+  </classes>
+  <classes shortName="Class1">
+    <properties shortName="Prop1"/>
+  </classes>
+  <models shortName="Domain"/>
+  <models shortName="Architecture"/>
+  <models shortName="Domain">
+    <dcomments shortName="Comment1"/>
+  </models>
+  <models shortName="Domain">
+    <dclasses shortName="Class3"/>
+  </models>
+  <mregions shortName="R1">
+    <states shortName="S1" xsi:type="dst:State"/>
+  </mregions>
+  <mregions shortName="R1">
+    <transitions shortName="T1"/>
+  </mregions>
+  <mregions shortName="R1">
+    <states shortName="PS1" xsi:type="dst:Pseudostate"/>
+  </mregions>
+</dst:Model>
